@@ -1,0 +1,86 @@
+{
+  "format": "fuzzy-range-patch-v1",
+  "component": "localization",
+  "base_build": "Fuzzy Android 1.61.1 supplied data",
+  "files": [
+    {
+      "path": "update/update.rpf",
+      "source_bytes": 781448704,
+      "source_sha256": "4fcf6ef217472e8f383a612065d6c32d411b9f6cdb5b9660418f85eb81b4ec44",
+      "target_bytes": 826202586,
+      "target_sha256": "388f72284c06da36c239bd2aec37c5592ec178032011fb72e7e444488fc46097",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 781448704
+        },
+        {
+          "source_offset": 193544704,
+          "offset": 781448704,
+          "bytes": 44360704
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Localization-data.zip",
+          "entry": "payload/update.rpf.header",
+          "offset": 0,
+          "bytes": 35840,
+          "sha256": "3c721621d45a114a99aee0641c5995759b833db50f42b7b75b4659b44abfd84c"
+        },
+        {
+          "archive": "Fuzzy-Localization-data.zip",
+          "entry": "payload/platform.header",
+          "offset": 781448704,
+          "bytes": 2560,
+          "sha256": "8840523c1cbf54bba5085fe2126050bc8837952d6b5bfa6bc1ec19d4d0069b69"
+        },
+        {
+          "archive": "Fuzzy-Localization-data.zip",
+          "entry": "payload/platform.font",
+          "offset": 825809408,
+          "bytes": 381984,
+          "sha256": "54d4988707b7625642b55c0001c7ccd60d4bb3acdd17ff3b2bbe8238205373c0"
+        },
+        {
+          "archive": "Fuzzy-Localization-data.zip",
+          "entry": "payload/fontmap.xml",
+          "offset": 826191872,
+          "bytes": 10714,
+          "sha256": "618aab61ae2e631d0c5d8fbcdf4f8d1b0125ed3314e14a01c4162ffbd8fb7690"
+        }
+      ]
+    },
+    {
+      "path": "update/update2.rpf",
+      "source_bytes": 327708672,
+      "source_sha256": "baf00b2ecfaebc537284144375bfa944160f71d6c2ea757c5ce5f46ba14da672",
+      "target_bytes": 333024256,
+      "target_sha256": "58ce41f506799fbd2e67418fc17f2c5473a94a1bd93391b7691e4b27251fb075",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 327708672
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Localization-data.zip",
+          "entry": "payload/update2.rpf.header",
+          "offset": 0,
+          "bytes": 33280,
+          "sha256": "0b16a4b15d9fb81548bac7eeaa1958ead8fcc00ea1e2ed0c484950f369ca56ee"
+        },
+        {
+          "archive": "Fuzzy-Localization-data.zip",
+          "entry": "payload/language.rpf",
+          "offset": 327708672,
+          "bytes": 5315584,
+          "sha256": "471c3d5a9d36c230af944dacda3d251c492b2a186e9f101cf891c13c2aef65ea"
+        }
+      ]
+    }
+  ]
+}

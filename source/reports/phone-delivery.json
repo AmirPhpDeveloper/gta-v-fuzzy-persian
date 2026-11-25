@@ -1,0 +1,35 @@
+{
+  "folder": "/sdcard/Fuzzy-fa",
+  "files": [
+    {
+      "file": "Fuzzy-Normal-fa.apk",
+      "bytes": 84056236,
+      "sha256": "158b56f49fd4ff381a27901f3b804dea0646d2d557e561cf6b32872fd7e9e4af"
+    },
+    {
+      "file": "Fuzzy-Trainer-fa.apk",
+      "bytes": 82700319,
+      "sha256": "857dfc30bf20e39c534cb0ee5c1c8b365a46f688997b2ba0ecea31dbf6c517dc"
+    },
+    {
+      "file": "Fuzzy-Localization-fa.rar",
+      "bytes": 172176974,
+      "sha256": "df3bf12735e9661bf802c98d7e9b41482d9ee8bbaf4c821b3fdaced516c1d29e"
+    },
+    {
+      "file": "Fuzzy-Dubbing-fa.part1.rar",
+      "bytes": 1887436800,
+      "sha256": "8daeb574b1f950022d13f4a771fe2d96a81949bd98a0fbc504246ec0719c8c2a"
+    },
+    {
+      "file": "Fuzzy-Dubbing-fa.part2.rar",
+      "bytes": 478602878,
+      "sha256": "250b9163acdaf873a0148bed107e0503c1bfa1e714abac4ef805a3a1f275b53e"
+    },
+    {
+      "file": "README-INSTALL-FA.txt",
+      "bytes": 11141,
+      "sha256": "7a3fb3d5e36589dde3c381e1ea20bd3fe815a85d1ba1ff135fd071dc59494fe5"
+    }
+  ]
+}

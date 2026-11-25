@@ -1,0 +1,7 @@
+{
+  "credits_and_star_wording": true,
+  "later_dismisses_current_launch": true,
+  "later_shows_again_next_launch": true,
+  "never_show_survives_restart": true,
+  "reset_for_user_next_launch": true
+}

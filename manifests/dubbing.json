@@ -1,0 +1,877 @@
+{
+  "format": "fuzzy-range-patch-v1",
+  "component": "dubbing",
+  "base_build": "Fuzzy Android 1.61.1 supplied data",
+  "files": [
+    {
+      "path": "android/audio/sfx/CUTSCENE_MASTERED_ONLY.rpf",
+      "source_bytes": 326646272,
+      "source_sha256": "4ff81520d1e326aff6d07d605ffe8a8e561725b50fa19ad8d2759a2e66f96177",
+      "target_bytes": 666012256,
+      "target_sha256": "7d21358d52b2b069f07277eb321598d93c627e9bed0203cd20843f13dfd66450",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 326646272
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/CUTSCENE_MASTERED_ONLY.rpf.header",
+          "offset": 0,
+          "bytes": 20992,
+          "sha256": "7b6fdaf544f766c32083f854e91a6801a18a0343f9a5c74cd441d8a1280ed981"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/CUTSCENE_MASTERED_ONLY.rpf.tail",
+          "offset": 326646272,
+          "bytes": 339365984,
+          "sha256": "a1e81cc7da937f00c060d3e0649092367fee31c170003de388954229b003522d"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/PROLOGUE.rpf",
+      "source_bytes": 7763456,
+      "source_sha256": "8bcf96bbd0672374f178ea9ed773af4ffd8e518de1bfe38d1f05007b9e9170ab",
+      "target_bytes": 11452592,
+      "target_sha256": "afd073c699c4e112e083c1c729f53bc606fa522ef36de4c8e4537d2270563a73",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 7763456
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/PROLOGUE.rpf.header",
+          "offset": 0,
+          "bytes": 512,
+          "sha256": "3e129bebb2a6b6c88a4820dbe2d620c91fbdf51c03fd726050aaebfa9a1646ae"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/PROLOGUE.rpf.tail",
+          "offset": 7763456,
+          "bytes": 3689136,
+          "sha256": "031fad367e7192fbb34eae8f2e04962bc433335be2ef14810dd09a4020ad511c"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/RADIO_01_CLASS_ROCK.rpf",
+      "source_bytes": 107489280,
+      "source_sha256": "74527f28e6c97fbff2e7f3347d496d52d5676511e89317c1f44b3dd07c094bd6",
+      "target_bytes": 204655840,
+      "target_sha256": "cb42131af70e3dd17710601936db56156281ac0fdbcb3b76a0e8e380f0f8294c",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 107489280
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/RADIO_01_CLASS_ROCK.rpf.header",
+          "offset": 0,
+          "bytes": 3072,
+          "sha256": "e6e4ba90efafeddc1e0adcb5078abe03ab32aff63911c4facb856dbae11b6922"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/RADIO_01_CLASS_ROCK.rpf.tail",
+          "offset": 107489280,
+          "bytes": 97166560,
+          "sha256": "9209c1a70c851ac5b585eed3eb3f996da3f4dd791dfc3fddfedeeccd11dbf3a6"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/RADIO_02_POP.rpf",
+      "source_bytes": 109128704,
+      "source_sha256": "0ac7c0613a0f7b38c39f516b24eaa10914b6e32aceb19af0f5230cfa06f75ca0",
+      "target_bytes": 214428400,
+      "target_sha256": "9308bef494d5f8c3dab7f117835bca6673f431c23f3a0fc0b85c29ed4e80a8a2",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 109128704
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/RADIO_02_POP.rpf.header",
+          "offset": 0,
+          "bytes": 3072,
+          "sha256": "6461e6a563842cc5d96ae4fec51800afceba76a8d6fc2635da4d97de5c775a5b"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/RADIO_02_POP.rpf.tail",
+          "offset": 109128704,
+          "bytes": 105299696,
+          "sha256": "9dadf8c843ba0eada13d3d28ec4f2a627a515b955e0bff6dbc3c93b705f982e0"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/RADIO_03_HIPHOP_NEW.rpf",
+      "source_bytes": 80881152,
+      "source_sha256": "f20676fa21e8e768477f5e78b6a1f5604b77b34264e44ade86e91ff07487894d",
+      "target_bytes": 155605664,
+      "target_sha256": "d23e3fbd4b327494f6622c2e0fa9b52da5d3ec6f8b6d415b960f683e91584bba",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 80881152
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/RADIO_03_HIPHOP_NEW.rpf.header",
+          "offset": 0,
+          "bytes": 2560,
+          "sha256": "79d952fa224ba6b8aea006f06328de53f178712902d6a640cf41214070d0d4e2"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/RADIO_03_HIPHOP_NEW.rpf.tail",
+          "offset": 80881152,
+          "bytes": 74724512,
+          "sha256": "e7f9fdaf4cb083fac69e7e1f749e06283e3acdd5cd701cce8744c654e6f57630"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/RADIO_06_COUNTRY.rpf",
+      "source_bytes": 48075264,
+      "source_sha256": "0b4cb923596d8095a8735296d251ec9080c6fe9d7a42fa32efd3777af899640b",
+      "target_bytes": 88241120,
+      "target_sha256": "7bc2dfaaf1ad629d7d84c8385cf1b09eeebe19487ef0398506a849b9c9662210",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 48075264
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/RADIO_06_COUNTRY.rpf.header",
+          "offset": 0,
+          "bytes": 2048,
+          "sha256": "300fb9fbd254ffab7ddfda8c02b638158e1d64f1657c96275a0d6d7c93edb7ec"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/RADIO_06_COUNTRY.rpf.tail",
+          "offset": 48075264,
+          "bytes": 40165856,
+          "sha256": "5b2917f737dcaac5013ae3597447729a5bf15c67a2996be100606c47efae2e0b"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/RADIO_09_HIPHOP_OLD.rpf",
+      "source_bytes": 83511808,
+      "source_sha256": "130a6ecd74bda98da7fc2d7ae93cac5891fc13b9c3794938d6b40e9818d7f996",
+      "target_bytes": 163498656,
+      "target_sha256": "1595b75eaba467e1ff3f695fb46e5f50ec83a0a687fe225b6e0b536ac4ef4dc2",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 83511808
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/RADIO_09_HIPHOP_OLD.rpf.header",
+          "offset": 0,
+          "bytes": 3072,
+          "sha256": "636707943aba0da1bfac9d481b89e359b7901b751ab78a6778d7e79fadb28a92"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/RADIO_09_HIPHOP_OLD.rpf.tail",
+          "offset": 83511808,
+          "bytes": 79986848,
+          "sha256": "fd00936c223e17002a0d2c2135b0218c7f38f11c5a43b1fe3393eaec1de881fe"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/RADIO_16_SILVERLAKE.rpf",
+      "source_bytes": 99633664,
+      "source_sha256": "336df6654d6cc861b11964fc3f9d400a80fe82e9be4487ddb000ad0ab9c7f816",
+      "target_bytes": 192517920,
+      "target_sha256": "3af6ae53faf5506ba5f5ec6274e9a2dd23c09ff9722316e9a8efa3b666bb6c02",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 99633664
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/RADIO_16_SILVERLAKE.rpf.header",
+          "offset": 0,
+          "bytes": 2560,
+          "sha256": "75e63ad09a33971a8c2ad14ce59b0903710d50d44ed79a78d8ea89865d367dd5"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-01.zip",
+          "entry": "payload/RADIO_16_SILVERLAKE.rpf.tail",
+          "offset": 99633664,
+          "bytes": 92884256,
+          "sha256": "953e76f794f85692f59e1b4bd7f62773d3ef932cc653523c1882e3e63a9b1354"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/RADIO_17_FUNK.rpf",
+      "source_bytes": 64501760,
+      "source_sha256": "43fd890a8f4b519d0ac5334c4bf16cf2c2bbc5ac752e4626b515e6daaa1679b4",
+      "target_bytes": 121920336,
+      "target_sha256": "a93493684dd71ec3f73a46d0c32d327c46dcac8544d1ca4bad274e2644dc6279",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 64501760
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/RADIO_17_FUNK.rpf.header",
+          "offset": 0,
+          "bytes": 2048,
+          "sha256": "6f26b28aba5818ff07df293fc33fdc7c006d5ef16cae559bde9f8f3afa23a07e"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/RADIO_17_FUNK.rpf.tail",
+          "offset": 64501760,
+          "bytes": 57418576,
+          "sha256": "3af23757032ff036445c283d853550953d9dfe738fb61bfa10bfe5bda9b9bd5e"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/RADIO_18_90S_ROCK.rpf",
+      "source_bytes": 47355392,
+      "source_sha256": "d91e1e648ab5fef17ae8303e3949e50b8b391780ee0332e507c058396b9f9052",
+      "target_bytes": 90653184,
+      "target_sha256": "73c6c6890c37aea27119661604438bbfeb5cddb8047ee0f3b33be195107d72b5",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 47355392
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/RADIO_18_90S_ROCK.rpf.header",
+          "offset": 0,
+          "bytes": 2048,
+          "sha256": "fad1ab234d51bbd8f326c8bd68b1d1a5cb0ab4fc3be8acd1169011f734f4170f"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/RADIO_18_90S_ROCK.rpf.tail",
+          "offset": 47355392,
+          "bytes": 43297792,
+          "sha256": "49d83f64554d1eab6fb61f13799c8b63d652cd4ac2acb07217470ba8f0292f7a"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/RADIO_ADVERTS.rpf",
+      "source_bytes": 136312320,
+      "source_sha256": "e4454fffc216ce2fdd83bce3bf98d6967c992c9396e29df9eb63aebdf3fa124a",
+      "target_bytes": 191407712,
+      "target_sha256": "c754b7a586f3f2a3dca70fec79b19db360d9f81a0a4ea96e1cb3e48a66723263",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 136312320
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/RADIO_ADVERTS.rpf.header",
+          "offset": 0,
+          "bytes": 5120,
+          "sha256": "25cc6c57b265f5405705116bd9c7b6af4f333ecd0707cdf0b889773425b3d55e"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/RADIO_ADVERTS.rpf.tail",
+          "offset": 136312320,
+          "bytes": 55095392,
+          "sha256": "ab92e20c29afc3ef3c104fda40d1d1cddd39f9440fb7dc87a5fc64440dfe350a"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/RADIO_NEWS.rpf",
+      "source_bytes": 226027520,
+      "source_sha256": "144b3f98d7547a6a5c4665c0f6551ff0c920be04bfb69a7ba162b35abc1e0be3",
+      "target_bytes": 282180752,
+      "target_sha256": "9b045b5db615ce202eaa916938326f780a868b57a3a208d1740373e64359bc33",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 226027520
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/RADIO_NEWS.rpf.header",
+          "offset": 0,
+          "bytes": 4096,
+          "sha256": "875834a3a0a1f4bc5abc80c9efcf8cb3233cf522c57e88c9e6efa0fa550e6ae9"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/RADIO_NEWS.rpf.tail",
+          "offset": 226027520,
+          "bytes": 56153232,
+          "sha256": "bdd50bab38808d197c1d600d092b0e7f2a6ef38c5d5a16c457911b580c98ddda"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/S_FULL_AMB_F.rpf",
+      "source_bytes": 102490112,
+      "source_sha256": "d96afc509b410e42ec5c6391bde95901587088f5a7389048c3032c4dcd07c4f1",
+      "target_bytes": 176049112,
+      "target_sha256": "f771187e0f729fbef130d45381586fe2166315f291f26b934fdc8e25e4b6ab9d",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 102490112
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_FULL_AMB_F.rpf.header",
+          "offset": 0,
+          "bytes": 3584,
+          "sha256": "3153524d0f94ef7ab5b01275f26f94fc4dcfc0f07f9375540b0d2d3952a8734e"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_FULL_AMB_F.rpf.tail",
+          "offset": 102490112,
+          "bytes": 73559000,
+          "sha256": "ae6f9aa625f07aa62784ccdfe43ede98e6aa30dac64d8acfbb5ad6631f4c3f6a"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/S_FULL_AMB_M.rpf",
+      "source_bytes": 164646400,
+      "source_sha256": "f6045844ecbecdc7c25fb48719df1e5629cd876cd7a7ae89475cb1c1aca8d8b4",
+      "target_bytes": 285295318,
+      "target_sha256": "7c5a905ef59b7b1b2d8350b0d49efb34eef25b4df22f32d41e9844f3142a9b43",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 164646400
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_FULL_AMB_M.rpf.header",
+          "offset": 0,
+          "bytes": 5632,
+          "sha256": "f4bca1439d0279225499bd71848bb28e5ef2cf24dad96e0d84f64612c90f28ff"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_FULL_AMB_M.rpf.tail",
+          "offset": 164646400,
+          "bytes": 120648918,
+          "sha256": "84d4a3cfcc45c0a0235b92bdb91c60af63ac5919d9621130ee9f74ff04fea38d"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/S_FULL_GAN.rpf",
+      "source_bytes": 65914880,
+      "source_sha256": "a119dd16e58cf017404d448b34aacd96015e81ea7ac9c5182f896f197479af5a",
+      "target_bytes": 90041258,
+      "target_sha256": "97de66bc24018f9f33f211fb87e42e88cabf3c524f01ff65d055884735a3904b",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 65914880
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_FULL_GAN.rpf.header",
+          "offset": 0,
+          "bytes": 1024,
+          "sha256": "1e38e3203c775b2009c3f3dd44d5d561d884bbd705decaa78bc56f5cd34d83b9"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_FULL_GAN.rpf.tail",
+          "offset": 65914880,
+          "bytes": 24126378,
+          "sha256": "4e3fadb75a8ab850dda180b5e1ea6b1bd156570d137ad28fbe23254afa177a8e"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/S_FULL_SER.rpf",
+      "source_bytes": 120243200,
+      "source_sha256": "8856c7c0461de2214bec76bac0669c3d6871eb63d6f95c5e0f4888a393f01b48",
+      "target_bytes": 167310756,
+      "target_sha256": "8e3793cb28fd7a208aebcc64ab461ada0aaae441acae331191be748f80de5666",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 120243200
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_FULL_SER.rpf.header",
+          "offset": 0,
+          "bytes": 3584,
+          "sha256": "bac63742b3cc1493e8c2bf2b28ef760b7a0a3699e0d5bbdd7b23e404f09b75c8"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_FULL_SER.rpf.tail",
+          "offset": 120243200,
+          "bytes": 47067556,
+          "sha256": "203b00ce988a42ca2f68be5540ff6ae6eb1d98c0f6b2852fb77c08e3ad1dd9f4"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/S_MINI_AMB.rpf",
+      "source_bytes": 146290176,
+      "source_sha256": "019ab8bf10471f65cd4dd75a7757081d53ffbedd33440c1ca1ed75030e5b733b",
+      "target_bytes": 242971576,
+      "target_sha256": "00ccea71677273db2dce18658f309cadf9ad11b984ef4c284fdb7fb9fddae9e3",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 146290176
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_MINI_AMB.rpf.header",
+          "offset": 0,
+          "bytes": 9216,
+          "sha256": "6e85f54351949b14e9bcc80417e2246a9e49815bb9ddd70d3c0497555eca383e"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_MINI_AMB.rpf.tail",
+          "offset": 146290176,
+          "bytes": 96681400,
+          "sha256": "deec77f162dc83666c4a6a6db8666cc597268911ae6c9442cc50bc9b1c0cc308"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/S_MINI_GAN.rpf",
+      "source_bytes": 180571648,
+      "source_sha256": "6345193b11ad584d217c747c1ebf8a04039bf722ed3e9b6c86c40ed7661d6785",
+      "target_bytes": 247924455,
+      "target_sha256": "b10d8a9341f1061ccb47c1a62c8bf02aebbf18bd416233cdb09de4ace260dbdc",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 180571648
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_MINI_GAN.rpf.header",
+          "offset": 0,
+          "bytes": 5120,
+          "sha256": "b5e57f3fc26ddab24f5f720e749c4d662003af9c82d392b85c025958fbeae2c0"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_MINI_GAN.rpf.tail",
+          "offset": 180571648,
+          "bytes": 67352807,
+          "sha256": "fcf947c886757316712356a77138c87c20e8788d68c39b6af937e5013a4d3dd5"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/S_MINI_SER.rpf",
+      "source_bytes": 113245184,
+      "source_sha256": "70d68d61372509ec7aa9e13957b13e0939d98deb3323a5205b60e6cb13718c32",
+      "target_bytes": 151865443,
+      "target_sha256": "d57e455fe7cab397f3106f76b2dc0114114dd7005d45c899e486dcda9c07c997",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 113245184
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_MINI_SER.rpf.header",
+          "offset": 0,
+          "bytes": 5120,
+          "sha256": "2fae66f65dce645c03acdc761d023827ab2ce58a851466f9033bf76da1c58a44"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_MINI_SER.rpf.tail",
+          "offset": 113245184,
+          "bytes": 38620259,
+          "sha256": "8381accd11ca53fc092dda4a534d5e77ba1eb04f473543c2809d26d6d637c8a5"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/S_MISC.rpf",
+      "source_bytes": 169430528,
+      "source_sha256": "27852181c55c50d8d7f56b219ceea5c35f5af088e308a620added603701f301c",
+      "target_bytes": 240903659,
+      "target_sha256": "f5282be628441d7b1991f535290d53072c729694a536dd9d4db5d9d738a19adb",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 169430528
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_MISC.rpf.header",
+          "offset": 0,
+          "bytes": 5120,
+          "sha256": "69172ccd4bc3e58362bda9afe807017bcecfd852e8279f2009cd904b28e1ded9"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-02.zip",
+          "entry": "payload/S_MISC.rpf.tail",
+          "offset": 169430528,
+          "bytes": 71473131,
+          "sha256": "ce4cedfed62ac97e86717877057080aef1052b4bb7302a96496f649c633e9555"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/SS_AC.rpf",
+      "source_bytes": 443506688,
+      "source_sha256": "dbbe37d153b98b83fd7f29f5148b0c6d31a4a99eb43696eb60ebdb64784fb897",
+      "target_bytes": 612791922,
+      "target_sha256": "c64abc0db672b72681daa95187e5962823b51367c96af20b99bd1da586f98d68",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 443506688
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-03.zip",
+          "entry": "payload/SS_AC.rpf.header",
+          "offset": 0,
+          "bytes": 1536,
+          "sha256": "4c0f520c0be5767c4cf87cfeab6ceabb3ca0edf088f8d9bc0f5b647be6bd0aa5"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-03.zip",
+          "entry": "payload/SS_AC.rpf.tail",
+          "offset": 443506688,
+          "bytes": 169285234,
+          "sha256": "d51b406087a2980815402b147a6c92dcb99bd13a91eec4d95e8bf8cb21901142"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/SS_DE.rpf",
+      "source_bytes": 154318848,
+      "source_sha256": "fb9c245b0a31bceea85432529f28b8a284fa1f99697b62a900e23113389fd7b4",
+      "target_bytes": 258607222,
+      "target_sha256": "bb4077ad4204b7e3f2df2037681a61c0a2bdc0a88c8722dad900338ac4283a88",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 154318848
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-03.zip",
+          "entry": "payload/SS_DE.rpf.header",
+          "offset": 0,
+          "bytes": 1024,
+          "sha256": "5182342dd5e8e8cd48a2aef6737d53041375daf4511c128cbdf77aeb75701509"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-03.zip",
+          "entry": "payload/SS_DE.rpf.tail",
+          "offset": 154318848,
+          "bytes": 104288374,
+          "sha256": "def97a4d44a0b307d1439b929ea045d7c8868ae7d616e4ef8e14681914b67368"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/SS_FF.rpf",
+      "source_bytes": 767225856,
+      "source_sha256": "5f300ca914e03e5e964eebdf3c4ad8cb406a638ac66771b73ca20f8cc350b9cd",
+      "target_bytes": 1105974426,
+      "target_sha256": "b6b05f09efe4c371deba737543f2442bbd903b505a968a8a0109351860d8e77f",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 767225856
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-03.zip",
+          "entry": "payload/SS_FF.rpf.header",
+          "offset": 0,
+          "bytes": 2560,
+          "sha256": "bbe4f0d24bdc7505293c9aad4b9a109629ca0faec57ac457aaede9e0ddf7b291"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-03.zip",
+          "entry": "payload/SS_FF.rpf.tail",
+          "offset": 767225856,
+          "bytes": 338748570,
+          "sha256": "a8ddf4809f9da0689bb68840022c09209efa72119f838b57ccff19dfa45b479b"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/SS_GM.rpf",
+      "source_bytes": 396892160,
+      "source_sha256": "714880ec39abbd7b791f3407b8d3b810c0ce15c540d6b5c2c2c9cac7fb3d7b8d",
+      "target_bytes": 560469894,
+      "target_sha256": "593da13703d9708b9965cc893b8153fa251ebd8c345819fb4a302cc0ae4557ae",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 396892160
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-03.zip",
+          "entry": "payload/SS_GM.rpf.header",
+          "offset": 0,
+          "bytes": 1536,
+          "sha256": "893a6ead972365b11d7915cc0502f0065fb3262f5f1aabe908f1313f8d6d0cb4"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-03.zip",
+          "entry": "payload/SS_GM.rpf.tail",
+          "offset": 396892160,
+          "bytes": 163577734,
+          "sha256": "1e1d037bff80054e81f92de5f7943c5dac8a0d7ab73825dfe62251ff97ac52ac"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/SS_NP.rpf",
+      "source_bytes": 219041792,
+      "source_sha256": "36105990c33b5d7594c706274780dc0d1cbed48a5de5030b7dfdad7a3c28d25b",
+      "target_bytes": 340500088,
+      "target_sha256": "f096ddb6b662b06f183da9d58e088e3f0d6f46d48eb47198c559b8689c1b1c33",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 219041792
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-04.zip",
+          "entry": "payload/SS_NP.rpf.header",
+          "offset": 0,
+          "bytes": 1536,
+          "sha256": "9206d4a132e5cdbbf775323eb2a70341232aae9b1eb3d8f9568d81ed48611840"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-04.zip",
+          "entry": "payload/SS_NP.rpf.tail",
+          "offset": 219041792,
+          "bytes": 121458296,
+          "sha256": "9ecc0c2adb4915fefeea4fcef516de01291d52a0fa44530f8d56e2b51e0d4c21"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/SS_QR.rpf",
+      "source_bytes": 190695424,
+      "source_sha256": "573a8f0a7683a7d4f3875c8695ffdad197f96f19910f532c8882e39c73c9b2e0",
+      "target_bytes": 288727274,
+      "target_sha256": "9fbb3ab269314c9546a8b06421aea14822912827c1f3362e5d04b1f2ff270392",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 190695424
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-04.zip",
+          "entry": "payload/SS_QR.rpf.header",
+          "offset": 0,
+          "bytes": 1536,
+          "sha256": "2379361875dc715acdc7efcddd9d0be359ba131ae77ba6890173bdf53a169c41"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-04.zip",
+          "entry": "payload/SS_QR.rpf.tail",
+          "offset": 190695424,
+          "bytes": 98031850,
+          "sha256": "e2d4e0953c42351fc46e7ca4728662289b97fe8fb3c4771dc8b0bbe6f9767f1e"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/SS_ST.rpf",
+      "source_bytes": 269207552,
+      "source_sha256": "69935cdb5fc5d513752fa794749c2ba1d0459a57829ab9e7d8a668adc67b078d",
+      "target_bytes": 391826384,
+      "target_sha256": "976416021d54ed51513f81ff974471c85040949818ecef2dbe942bb70cf1b703",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 269207552
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-04.zip",
+          "entry": "payload/SS_ST.rpf.header",
+          "offset": 0,
+          "bytes": 1024,
+          "sha256": "2bda06c96da8c67d258b83b1949c87c5a8f53284b9b803de2c6bf5517b9dc901"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-04.zip",
+          "entry": "payload/SS_ST.rpf.tail",
+          "offset": 269207552,
+          "bytes": 122618832,
+          "sha256": "79f59227855687e94049ea9ed210a19144f3c3280efc34249613e478dc471075"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/SS_UZ.rpf",
+      "source_bytes": 8665088,
+      "source_sha256": "c3150adaa56105836336cf1a9aacec3e379699be3564ca07810e634f09949d40",
+      "target_bytes": 8854416,
+      "target_sha256": "e37bf6b350b5e9f2004ff4a4d8f167e2eb8f3eac494e414df72b09efc2833f85",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 8665088
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-04.zip",
+          "entry": "payload/SS_UZ.rpf.header",
+          "offset": 0,
+          "bytes": 512,
+          "sha256": "1da0fab866156b4039a111e92c23d37d91f9d23738841965e35a849a0baa1add"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-04.zip",
+          "entry": "payload/SS_UZ.rpf.tail",
+          "offset": 8665088,
+          "bytes": 189328,
+          "sha256": "2da32476ac87718abd9a1a7e0529f769eab850fef5bb9fda39941c506e2cd7aa"
+        }
+      ]
+    },
+    {
+      "path": "android/audio/sfx/STREAMS.rpf",
+      "source_bytes": 75596288,
+      "source_sha256": "a7037c31eaec6e8cd6f8006f6dc94450805a379bb9d6e87f9c103a4dceead2b2",
+      "target_bytes": 81138800,
+      "target_sha256": "9fe1a189d32f4bdf9783d998f8baf0c1115e8271a116d31a403c685077fca32f",
+      "copies": [
+        {
+          "source_offset": 0,
+          "offset": 0,
+          "bytes": 75596288
+        }
+      ],
+      "parts": [
+        {
+          "archive": "Fuzzy-Dubbing-data-04.zip",
+          "entry": "payload/STREAMS.rpf.header",
+          "offset": 0,
+          "bytes": 5632,
+          "sha256": "795b0c6d5910cdce211f6e688962244e1f687c67b6437c9e57348f5ce0cecb95"
+        },
+        {
+          "archive": "Fuzzy-Dubbing-data-04.zip",
+          "entry": "payload/STREAMS.rpf.tail",
+          "offset": 75596288,
+          "bytes": 5542512,
+          "sha256": "3dc28db16c943beaa6d1eacacefc39795a8e08df07ecfbd6e4530a9ad3ae5885"
+        }
+      ]
+    }
+  ]
+}

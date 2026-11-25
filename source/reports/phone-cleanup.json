@@ -1,0 +1,13 @@
+{
+  "deleted_own_temporary_paths": [
+    "/sdcard/Fuzzy-Persian-Backup-20261125",
+    "/sdcard/com.thegwchr.fuzzy/files/game/update/update2.before-script-v9.bak",
+    "/sdcard/com.thegwchr.fuzzy/files/game/update/update2.script-v9-crashed.bak",
+    "/sdcard/Download/Fuzzy-Persian-Normal.apk"
+  ],
+  "original_64gb_archive_preserved_bytes": 68813051590,
+  "active_game_data_untouched": true,
+  "game_closed": true,
+  "before": "Filesystem     1K-blocks      Used Available Use% Mounted on\n/dev/fuse      502631392 498868064   3226460 100% /storage/emulated",
+  "after": "Filesystem     1K-blocks      Used Available Use% Mounted on\n/dev/fuse      502631392 490792528  11301996  98% /storage/emulated"
+}

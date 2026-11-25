@@ -1,0 +1,36 @@
+{
+  "normal": {
+    "file": "Fuzzy-Normal-fa.apk",
+    "size": 84056236,
+    "sha256": "158b56f49fd4ff381a27901f3b804dea0646d2d557e561cf6b32872fd7e9e4af",
+    "unchanged_original_entries": 268,
+    "original_native_libraries": {
+      "lib/arm64-v8a/libfile_redirect_hook.so": "0ef53ed80c5244e286863efd1872f2700ca0d7b0bc4a1dfd84752fbaa6a44ed5",
+      "lib/arm64-v8a/libfzvulkan.so": "03de771907f3a978e8df514db2a10761b4b6f34e68ca77171c47feb4418714de",
+      "lib/arm64-v8a/libgsl_alloc_hook.so": "7822a3e76984eaf714ace6940b8ebe64921af3653bbb70378b80c6788f23119e",
+      "lib/arm64-v8a/libgtav.so": "d479fcc2f1d3a95984b3c5ace8ad26b157dfd46b733cb80e5350d68839edbf93",
+      "lib/arm64-v8a/libhook_impl.so": "61664d194784a6b2a7540a755e0013f7b332ee9d2174560df2326cfed33f768c",
+      "lib/arm64-v8a/libmain_hook.so": "399fd4771092582d691ec4dd566e48a7c12ec1f8cb48f8dd75659c98c5c4464d",
+      "lib/arm64-v8a/libfuzzyfa.so": "79e055eeec180d1881ef823f6fa00f612cd3be8d7498cfa86cde9ae4c5046836"
+    },
+    "signature_verified": true,
+    "aligned": true
+  },
+  "trainer": {
+    "file": "Fuzzy-Trainer-fa.apk",
+    "size": 82700319,
+    "sha256": "857dfc30bf20e39c534cb0ee5c1c8b365a46f688997b2ba0ecea31dbf6c517dc",
+    "unchanged_original_entries": 267,
+    "original_native_libraries": {
+      "lib/arm64-v8a/libfile_redirect_hook.so": "0ef53ed80c5244e286863efd1872f2700ca0d7b0bc4a1dfd84752fbaa6a44ed5",
+      "lib/arm64-v8a/libfzvulkan.so": "03de771907f3a978e8df514db2a10761b4b6f34e68ca77171c47feb4418714de",
+      "lib/arm64-v8a/libgsl_alloc_hook.so": "7822a3e76984eaf714ace6940b8ebe64921af3653bbb70378b80c6788f23119e",
+      "lib/arm64-v8a/libgtav.so": "540e21f8aabb35b85435d35871cd65b4f8a8027424c598ae27f94ca7db33ee97",
+      "lib/arm64-v8a/libhook_impl.so": "61664d194784a6b2a7540a755e0013f7b332ee9d2174560df2326cfed33f768c",
+      "lib/arm64-v8a/libmain_hook.so": "399fd4771092582d691ec4dd566e48a7c12ec1f8cb48f8dd75659c98c5c4464d",
+      "lib/arm64-v8a/libshv.so": "28884c609f673d9842a1508c62cf910d22f048b1f2222b195732a96bbb0b75dd"
+    },
+    "signature_verified": true,
+    "aligned": true
+  }
+}

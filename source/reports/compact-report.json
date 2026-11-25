@@ -1,0 +1,22 @@
+{
+  "Fuzzy-Dubbing-data-01.zip": {
+    "bytes": 781128841,
+    "sha256": "2b76fc9ca5cfb471edb603c6adbf91e8230dd68b78693f1d060047557131301b"
+  },
+  "Fuzzy-Dubbing-data-02.zip": {
+    "bytes": 541624633,
+    "sha256": "b2a4c492bf8adf0afa9e6f22c7c7371a1450ccd421107c570befcc4b42db3ca5"
+  },
+  "Fuzzy-Dubbing-data-03.zip": {
+    "bytes": 718429466,
+    "sha256": "519eb68aa1aeaffaa1b2a38e2555c715b1c8e64994ebbe903dbb8e2f8a702127"
+  },
+  "Fuzzy-Dubbing-data-04.zip": {
+    "bytes": 324804355,
+    "sha256": "33f15ad01c98c1b0f2a0127ea40cea6f0765b48924c983bd49b5289ebf34c175"
+  },
+  "Fuzzy-Localization-data.zip": {
+    "bytes": 5368988,
+    "sha256": "f26b9e80e02ca7402474d354c98e088a605f2f5f3f221f8a82807b03ae188f95"
+  }
+}

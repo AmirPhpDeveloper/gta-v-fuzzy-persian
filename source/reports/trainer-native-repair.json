@@ -1,0 +1,85 @@
+{
+  "source_sha256": "0170452c3dd0e641befc855d08519704f070352ba8e0ce920e19e787f719238c",
+  "repaired_sha256": "28884c609f673d9842a1508c62cf910d22f048b1f2222b195732a96bbb0b75dd",
+  "bytes": 157456,
+  "engine_modified": false,
+  "patches": [
+    {
+      "low_instruction": "0x1dc3c",
+      "high_instruction": "0x1dc48",
+      "before": "0x16c566c",
+      "after": "0x16c522c",
+      "reason": "ped_commands::CommandKnockPedOffVehicle(int)"
+    },
+    {
+      "low_instruction": "0x1dd04",
+      "high_instruction": "0x1dd10",
+      "before": "0x1763624",
+      "after": "0x17632d8",
+      "reason": "task_commands::CommandTaskLeaveAnyVehicle(int, int, int)"
+    },
+    {
+      "low_instruction": "0x1ddd8",
+      "high_instruction": "0x1dde4",
+      "before": "0x175b5c4",
+      "after": "0x175b278",
+      "reason": "task_commands::CommandTaskLeaveVehicle(int, int, int)"
+    },
+    {
+      "low_instruction": "0x1df20",
+      "high_instruction": "0x1df2c",
+      "before": "0x17865b8",
+      "after": "0x178626c",
+      "reason": "vehicle_commands::CommandDeleteVehicle(int&)"
+    },
+    {
+      "low_instruction": "0x1df94",
+      "high_instruction": "0x1dfa0",
+      "before": "0x176e148",
+      "after": "0x176ddfc",
+      "reason": "task_commands::CommandClearPedTasksImmediately(int)"
+    },
+    {
+      "low_instruction": "0x1e0ac",
+      "high_instruction": "0x1e0b8",
+      "before": "0x18be9b4",
+      "after": "0x18bc89c",
+      "reason": "EndUserBenchmarks::OutputBenchmarkResults()"
+    },
+    {
+      "low_instruction": "0x1da94",
+      "high_instruction": "0x1daa0",
+      "before": "0x18bea58",
+      "after": "0x18bc940",
+      "reason": "Benchmark checks follow current function layout"
+    },
+    {
+      "low_instruction": "0x1db08",
+      "high_instruction": "0x1db14",
+      "before": "0xb4002ec0",
+      "after": "0xf100001f",
+      "reason": "Compare stream pointer to NULL, retain existing conditional branch"
+    },
+    {
+      "low_instruction": "0x1db0c",
+      "high_instruction": "0x1db18",
+      "before": "0xb4fffc80",
+      "after": "0xf100001f",
+      "reason": "Compare frame-times stream pointer to NULL"
+    },
+    {
+      "data_offset": "0x25398",
+      "before": "0x15fd570",
+      "after": "0x15f1b34",
+      "reason": "No-argument benchmark save command fallback"
+    }
+  ],
+  "status": "DEVICE_MENU_AND_GAMEPLAY_PASS",
+  "device_test": {
+    "gameplay_loaded": true,
+    "trainer_menu_open_engine_ok": true,
+    "process_alive_after_interaction": true,
+    "all_trainer_features_tested": false,
+    "evidence": "trainer-repaired-world-menu.png"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "files": [
+    {
+      "path": "android/audio/sfx/CUTSCENE_MASTERED_ONLY.rpf",
+      "bytes": 666012256,
+      "sha256": "7d21358d52b2b069f07277eb321598d93c627e9bed0203cd20843f13dfd66450"
+    },
+    {
+      "path": "android/audio/sfx/PROLOGUE.rpf",
+      "bytes": 11452592,
+      "sha256": "afd073c699c4e112e083c1c729f53bc606fa522ef36de4c8e4537d2270563a73"
+    },
+    {
+      "path": "android/audio/sfx/RADIO_01_CLASS_ROCK.rpf",
+      "bytes": 204655840,
+      "sha256": "cb42131af70e3dd17710601936db56156281ac0fdbcb3b76a0e8e380f0f8294c"
+    },
+    {
+      "path": "android/audio/sfx/RADIO_02_POP.rpf",
+      "bytes": 214428400,
+      "sha256": "9308bef494d5f8c3dab7f117835bca6673f431c23f3a0fc0b85c29ed4e80a8a2"
+    },
+    {
+      "path": "android/audio/sfx/RADIO_03_HIPHOP_NEW.rpf",
+      "bytes": 155605664,
+      "sha256": "d23e3fbd4b327494f6622c2e0fa9b52da5d3ec6f8b6d415b960f683e91584bba"
+    },
+    {
+      "path": "android/audio/sfx/RADIO_06_COUNTRY.rpf",
+      "bytes": 88241120,
+      "sha256": "7bc2dfaaf1ad629d7d84c8385cf1b09eeebe19487ef0398506a849b9c9662210"
+    },
+    {
+      "path": "android/audio/sfx/RADIO_09_HIPHOP_OLD.rpf",
+      "bytes": 163498656,
+      "sha256": "1595b75eaba467e1ff3f695fb46e5f50ec83a0a687fe225b6e0b536ac4ef4dc2"
+    },
+    {
+      "path": "android/audio/sfx/RADIO_16_SILVERLAKE.rpf",
+      "bytes": 192517920,
+      "sha256": "3af6ae53faf5506ba5f5ec6274e9a2dd23c09ff9722316e9a8efa3b666bb6c02"
+    },
+    {
+      "path": "android/audio/sfx/RADIO_17_FUNK.rpf",
+      "bytes": 121920336,
+      "sha256": "a93493684dd71ec3f73a46d0c32d327c46dcac8544d1ca4bad274e2644dc6279"
+    },
+    {
+      "path": "android/audio/sfx/RADIO_18_90S_ROCK.rpf",
+      "bytes": 90653184,
+      "sha256": "73c6c6890c37aea27119661604438bbfeb5cddb8047ee0f3b33be195107d72b5"
+    },
+    {
+      "path": "android/audio/sfx/RADIO_ADVERTS.rpf",
+      "bytes": 191407712,
+      "sha256": "c754b7a586f3f2a3dca70fec79b19db360d9f81a0a4ea96e1cb3e48a66723263"
+    },
+    {
+      "path": "android/audio/sfx/RADIO_NEWS.rpf",
+      "bytes": 282180752,
+      "sha256": "9b045b5db615ce202eaa916938326f780a868b57a3a208d1740373e64359bc33"
+    },
+    {
+      "path": "android/audio/sfx/S_FULL_AMB_F.rpf",
+      "bytes": 176049112,
+      "sha256": "f771187e0f729fbef130d45381586fe2166315f291f26b934fdc8e25e4b6ab9d"
+    },
+    {
+      "path": "android/audio/sfx/S_FULL_AMB_M.rpf",
+      "bytes": 285295318,
+      "sha256": "7c5a905ef59b7b1b2d8350b0d49efb34eef25b4df22f32d41e9844f3142a9b43"
+    },
+    {
+      "path": "android/audio/sfx/S_FULL_GAN.rpf",
+      "bytes": 90041258,
+      "sha256": "97de66bc24018f9f33f211fb87e42e88cabf3c524f01ff65d055884735a3904b"
+    },
+    {
+      "path": "android/audio/sfx/S_FULL_SER.rpf",
+      "bytes": 167310756,
+      "sha256": "8e3793cb28fd7a208aebcc64ab461ada0aaae441acae331191be748f80de5666"
+    },
+    {
+      "path": "android/audio/sfx/S_MINI_AMB.rpf",
+      "bytes": 242971576,
+      "sha256": "00ccea71677273db2dce18658f309cadf9ad11b984ef4c284fdb7fb9fddae9e3"
+    },
+    {
+      "path": "android/audio/sfx/S_MINI_GAN.rpf",
+      "bytes": 247924455,
+      "sha256": "b10d8a9341f1061ccb47c1a62c8bf02aebbf18bd416233cdb09de4ace260dbdc"
+    },
+    {
+      "path": "android/audio/sfx/S_MINI_SER.rpf",
+      "bytes": 151865443,
+      "sha256": "d57e455fe7cab397f3106f76b2dc0114114dd7005d45c899e486dcda9c07c997"
+    },
+    {
+      "path": "android/audio/sfx/S_MISC.rpf",
+      "bytes": 240903659,
+      "sha256": "f5282be628441d7b1991f535290d53072c729694a536dd9d4db5d9d738a19adb"
+    },
+    {
+      "path": "android/audio/sfx/SS_AC.rpf",
+      "bytes": 612791922,
+      "sha256": "c64abc0db672b72681daa95187e5962823b51367c96af20b99bd1da586f98d68"
+    },
+    {
+      "path": "android/audio/sfx/SS_DE.rpf",
+      "bytes": 258607222,
+      "sha256": "bb4077ad4204b7e3f2df2037681a61c0a2bdc0a88c8722dad900338ac4283a88"
+    },
+    {
+      "path": "android/audio/sfx/SS_FF.rpf",
+      "bytes": 1105974426,
+      "sha256": "b6b05f09efe4c371deba737543f2442bbd903b505a968a8a0109351860d8e77f"
+    },
+    {
+      "path": "android/audio/sfx/SS_GM.rpf",
+      "bytes": 560469894,
+      "sha256": "593da13703d9708b9965cc893b8153fa251ebd8c345819fb4a302cc0ae4557ae"
+    },
+    {
+      "path": "android/audio/sfx/SS_NP.rpf",
+      "bytes": 340500088,
+      "sha256": "f096ddb6b662b06f183da9d58e088e3f0d6f46d48eb47198c559b8689c1b1c33"
+    },
+    {
+      "path": "android/audio/sfx/SS_QR.rpf",
+      "bytes": 288727274,
+      "sha256": "9fbb3ab269314c9546a8b06421aea14822912827c1f3362e5d04b1f2ff270392"
+    },
+    {
+      "path": "android/audio/sfx/SS_ST.rpf",
+      "bytes": 391826384,
+      "sha256": "976416021d54ed51513f81ff974471c85040949818ecef2dbe942bb70cf1b703"
+    },
+    {
+      "path": "android/audio/sfx/SS_UZ.rpf",
+      "bytes": 8854416,
+      "sha256": "e37bf6b350b5e9f2004ff4a4d8f167e2eb8f3eac494e414df72b09efc2833f85"
+    },
+    {
+      "path": "android/audio/sfx/STREAMS.rpf",
+      "bytes": 81138800,
+      "sha256": "9fe1a189d32f4bdf9783d998f8baf0c1115e8271a116d31a403c685077fca32f"
+    },
+    {
+      "path": "update/update.rpf",
+      "bytes": 826202586,
+      "sha256": "388f72284c06da36c239bd2aec37c5592ec178032011fb72e7e444488fc46097"
+    },
+    {
+      "path": "update/update2.rpf",
+      "bytes": 333024256,
+      "sha256": "58ce41f506799fbd2e67418fc17f2c5473a94a1bd93391b7691e4b27251fb075"
+    }
+  ],
+  "all_31_rpf_exact_match": true,
+  "audio_archive_count": 29,
+  "update_archive_count": 2
+}

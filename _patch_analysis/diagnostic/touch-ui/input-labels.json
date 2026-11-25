@@ -1,0 +1,1585 @@
+[
+  {
+    "key": "INPUT_ACCURATE_AIM",
+    "hash": "406ADFAE",
+    "english": "Accurate Aim",
+    "gamesub": "Accurate Aim",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_AIM",
+    "hash": "F84FA74F",
+    "english": "Aim Weapon / Lock-on",
+    "gamesub": "兼僤僩俘 兵儜償 / 冁僟具僮倰 倱倴 册僩冰保儛僥円",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_ARREST",
+    "hash": "A4F1006B",
+    "english": "Arrest",
+    "gamesub": "Arrest",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_ATTACK",
+    "hash": "07CE1E61",
+    "english": "Fire Weapon",
+    "gamesub": "冁僟具僮倰 倱倴 俗冰具僿",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_CAMERA_DOF",
+    "hash": "593DB489",
+    "english": "Adjust Depth of Field (Camera)",
+    "gamesub": "(兽冰倴僨冈僤) 僩冎冉億偁 儞养儓 兹冰儐兿偁",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_CAMERA_EXPRESSION",
+    "hash": "D7E274E7",
+    "english": "Change Expression (Camera)",
+    "gamesub": "Change Expression (Camera)",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_CAMERA_FOCUS_LOCK",
+    "hash": "5AC1805E",
+    "english": "Lock Focus (Camera)",
+    "gamesub": "Lock Focus (Camera)",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_CAMERA_GRID",
+    "hash": "E18CC57A",
+    "english": "Toggle Grid (Camera)",
+    "gamesub": "Toggle Grid (Camera)",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_CAMERA_SELFIE",
+    "hash": "6A440BFE",
+    "english": "Change Mode (Camera)",
+    "gamesub": "(兽冰倴僨冈僤) 偀其倱僞 僩冰冰儘偁",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_CANCEL",
+    "hash": "DD833287",
+    "english": "Phone Cancel",
+    "gamesub": "兽儜具偁 兼僤僩俘 冉儘其",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_DOWN",
+    "hash": "82196002",
+    "english": "Phone Down",
+    "gamesub": "兽偂儛僨 兽冰冎倱侭",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_EXTRA_OPTION",
+    "hash": "BE354011",
+    "english": "Phone Special Option",
+    "gamesub": "Phone Special Option",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_LEFT",
+    "hash": "3ABBE990",
+    "english": "Phone Left",
+    "gamesub": "侬侱 冁倴 兽偂儛僨",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_OPTION",
+    "hash": "D2C28BB4",
+    "english": "Phone Option",
+    "gamesub": "Phone Option",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_RIGHT",
+    "hash": "D25EFDCD",
+    "english": "Phone Right",
+    "gamesub": "偀僮倰僨 冁倴 兽偂儛僨",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_SCROLL_BACKWARD",
+    "hash": "47CD0F3B",
+    "english": "Phone Scroll Back",
+    "gamesub": "Phone Scroll Back",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_SCROLL_FORWARD",
+    "hash": "CB4E1798",
+    "english": "Phone Scroll Forward",
+    "gamesub": "Phone Scroll Forward",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_SELECT",
+    "hash": "DC264018",
+    "english": "Phone Select",
+    "gamesub": "倲倱僣偂兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CELLPHONE_UP",
+    "hash": "D2EE3B1E",
+    "english": "Phone Up",
+    "gamesub": "兽偂儛僨 倱其倱倴",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CHARACTER_WHEEL",
+    "hash": "972F8D1E",
+    "english": "Character Selector",
+    "gamesub": "僩偂俘倰僨倱俘 倲倱僣偂兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CINEMATIC_SLOWMO",
+    "hash": "7A9093DE",
+    "english": "Cinematic Slowmo",
+    "gamesub": "再冎倱养兿冰僮 兽僿冉兺冉具僮倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_CONTEXT",
+    "hash": "B73BCA77",
+    "english": "Context Action",
+    "gamesub": "Context Action",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_COVER",
+    "hash": "DE794E3E",
+    "english": "Take Cover",
+    "gamesub": "兽偂儛僩俜 僩保兿僮",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_DETONATE",
+    "hash": "73846677",
+    "english": "Throw Grenade / Detonate Sticky Bombs",
+    "gamesub": "俖倱兿倾僯侱 倳养倴 / 俗僛兾僨倱兾 倲倱偁僩侭",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_DIVE",
+    "hash": "06052D11",
+    "english": "Dive",
+    "gamesub": "Dive",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_DROP_AMMO",
+    "hash": "4E42696E",
+    "english": "Drop Ammunition",
+    "gamesub": "倿倱养冇兺 兽偂僢倰僥兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_DROP_WEAPON",
+    "hash": "7DBCD016",
+    "english": "Drop Weapon",
+    "gamesub": "冁僟具僮倰 兽偂僢倰僥兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_DUCK",
+    "hash": "DB096B85",
+    "english": "Stealth Mode",
+    "gamesub": "冁兾倱冰儜僣兺 偀俘僩僞",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_EAT_SNACK",
+    "hash": "B4DA0254",
+    "english": "Eat Snack (In Weapon Wheel)",
+    "gamesub": "",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_ENTER",
+    "hash": "CEFD9220",
+    "english": "Enter Vehicle",
+    "gamesub": "冁具冰僮冈 冁倴 僤冈僨冈",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_ENTER_CHEAT_CODE",
+    "hash": "7BF65AC8",
+    "english": "Enter Cheat Code",
+    "gamesub": "Enter Cheat Code",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_ACCEPT",
+    "hash": "C7B5340A",
+    "english": "Accept",
+    "gamesub": "兽偂儛僩冎僧侭",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_AXIS_X",
+    "hash": "FB56DD5B",
+    "english": "Menu Up / Down",
+    "gamesub": "Menu Up / Down",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_AXIS_Y",
+    "hash": "091178D0",
+    "english": "Menu Left / Right",
+    "gamesub": "Menu Left / Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_CANCEL",
+    "hash": "156F7119",
+    "english": "Cancel",
+    "gamesub": "冉儘其",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_DELETE",
+    "hash": "4AF4D473",
+    "english": "Menu Delete",
+    "gamesub": "Menu Delete",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_DOWN",
+    "hash": "05CA7C52",
+    "english": "Menu Down",
+    "gamesub": "Menu Down",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_ENDSCREEN_ACCEPT",
+    "hash": "3E32FCEE",
+    "english": "Accept (Mission Complete)",
+    "gamesub": "Accept (Mission Complete)",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_ENDSCREEN_EXPAND",
+    "hash": "C79BDE9F",
+    "english": "Expand (Mission Complete)",
+    "gamesub": "Expand (Mission Complete)",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_LB",
+    "hash": "E885EF16",
+    "english": "Menu Tab Left",
+    "gamesub": "Menu Tab Left",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_LEADERBOARD",
+    "hash": "9EDC8D65",
+    "english": "Show Leaderboard",
+    "gamesub": "Show Leaderboard",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_LEFT",
+    "hash": "A65EBAB4",
+    "english": "Menu Left",
+    "gamesub": "Menu Left",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_LS",
+    "hash": "43CDA5B0",
+    "english": "Menu Navigation",
+    "gamesub": "Menu Navigation",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_LT",
+    "hash": "51104035",
+    "english": "Zoom Map Out",
+    "gamesub": "Zoom Map Out",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_PAUSE",
+    "hash": "D82E0BD2",
+    "english": "Pause",
+    "gamesub": "儚償冉偁",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_PAUSE_ALTERNATE",
+    "hash": "4A903C11",
+    "english": "Pause",
+    "gamesub": "儚償冉偁",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_RB",
+    "hash": "17BEC168",
+    "english": "Menu Tab Right",
+    "gamesub": "Menu Tab Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_RDOWN",
+    "hash": "5734A944",
+    "english": "Menu Navigation",
+    "gamesub": "Menu Navigation",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_RIGHT",
+    "hash": "DEB34313",
+    "english": "Menu Right",
+    "gamesub": "Menu Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_RIGHT_AXIS_X",
+    "hash": "3D23549A",
+    "english": "FRONTEND RIGHT AXIS X - *NO STANDARD USEAGE*",
+    "gamesub": "FRONTEND RIGHT AXIS X - *NO STANDARD USEAGE*",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_RIGHT_AXIS_Y",
+    "hash": "EB4130DF",
+    "english": "FRONTEND RIGHT AXIS Y - *NO STANDARD USEAGE*",
+    "gamesub": "FRONTEND RIGHT AXIS Y - *NO STANDARD USEAGE*",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_RLEFT",
+    "hash": "39336A4F",
+    "english": "Menu Navigation",
+    "gamesub": "Menu Navigation",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_RRIGHT",
+    "hash": "5B48F938",
+    "english": "Menu Navigation",
+    "gamesub": "Menu Navigation",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_RS",
+    "hash": "7DA48D2A",
+    "english": "Menu Navigation",
+    "gamesub": "Menu Navigation",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_RT",
+    "hash": "6FED71BC",
+    "english": "Zoom Map In",
+    "gamesub": "Zoom Map In",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_RUP",
+    "hash": "D7DE6B1E",
+    "english": "Menu Navigation",
+    "gamesub": "Menu Navigation",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_SELECT",
+    "hash": "171910DC",
+    "english": "Select",
+    "gamesub": "倲倱僣偂兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_SOCIAL_CLUB",
+    "hash": "064D1698",
+    "english": "Social Club",
+    "gamesub": "倲倱具俘 兴倱僿冉僮",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_SOCIAL_CLUB_SECONDARY",
+    "hash": "BDB8D6F3",
+    "english": "Social Club Overlay",
+    "gamesub": "Social Club Overlay",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_UP",
+    "hash": "6319DB71",
+    "english": "Menu Up",
+    "gamesub": "Menu Up",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_X",
+    "hash": "6DB8C62F",
+    "english": "Menu Navigation",
+    "gamesub": "Menu Navigation",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_FRONTEND_Y",
+    "hash": "7C0162C0",
+    "english": "Menu Navigation",
+    "gamesub": "Menu Navigation",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_HUD_SPECIAL",
+    "hash": "580C4473",
+    "english": "Radar Zoom / Multiplayer Information",
+    "gamesub": "冀僩儜兾 僥兿侱 僱僣倴 倿倱儓倱具儋倰 / 僨倰僤倰僨 僨僤 典冈僪",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_INTERACTION_MENU",
+    "hash": "CC510E59",
+    "english": "Interaction Menu",
+    "gamesub": "Interaction Menu",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_JUMP",
+    "hash": "D9D0E1C0",
+    "english": "Jump",
+    "gamesub": "僰僩侭",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_LOOK_BEHIND",
+    "hash": "9959A6F0",
+    "english": "Look Behind (On Foot)",
+    "gamesub": "(冀僤倱冰侭 册倱侭 倱倴) 僩僮 偀儀侭 冁倴 冀倱保兾",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_LOOK_DOWN_ONLY",
+    "hash": "8ED92E16",
+    "english": "Look Down",
+    "gamesub": "Look Down",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_LOOK_LEFT_ONLY",
+    "hash": "08F8BC6D",
+    "english": "Look Left",
+    "gamesub": "Look Left",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_LOOK_RIGHT_ONLY",
+    "hash": "A1EB1353",
+    "english": "Look Right",
+    "gamesub": "Look Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_LOOK_UP_ONLY",
+    "hash": "C0651D40",
+    "english": "Look Up",
+    "gamesub": "Look Up",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MAP",
+    "hash": "E31C6A41",
+    "english": "Map",
+    "gamesub": "冁儀儠兾",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MELEE_ATTACK_HEAVY",
+    "hash": "72C288E6",
+    "english": "Heavy Melee Attack",
+    "gamesub": "兽冰保兿僮 再俙冎僫冰儛 冁倴僩儇",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MELEE_ATTACK_LIGHT",
+    "hash": "215BD5F2",
+    "english": "Light Melee Attack",
+    "gamesub": "俗倾僮 再俙冎僫冰儛 冁倴僩儇",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MELEE_BLOCK",
+    "hash": "B5EEEFB7",
+    "english": "Melee Dodge",
+    "gamesub": "再其倱僢 倱僚",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MOVE_DOWN_ONLY",
+    "hash": "D27782E3",
+    "english": "Move Back",
+    "gamesub": "倳儠儓 冁倴 偀俘僩僞",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MOVE_LEFT_ONLY",
+    "hash": "7065027D",
+    "english": "Move Left",
+    "gamesub": "侬侱 冁倴 兽俘僩僞",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MOVE_LR",
+    "hash": "4D8FB4C1",
+    "english": "Move Left / Right",
+    "gamesub": "Move Left / Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MOVE_RIGHT_ONLY",
+    "hash": "B4E465B4",
+    "english": "Move Right",
+    "gamesub": "偀僮倰僨 冁倴 偀俘僩僞",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MOVE_UD",
+    "hash": "FDA83190",
+    "english": "Move Forward / Back",
+    "gamesub": "Move Forward / Back",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MOVE_UP_ONLY",
+    "hash": "8FD015D8",
+    "english": "Move Forward",
+    "gamesub": "冉具僚 冁倴 偀俘僩僞",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MP_TEXT_CHAT_ALL",
+    "hash": "9720FCEE",
+    "english": "Text Chat Everyone",
+    "gamesub": "冁养円 倱倴 再兿偂兺 偀侱",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MP_TEXT_CHAT_CREW",
+    "hash": "8142FA92",
+    "english": "Text Chat Crew",
+    "gamesub": "Text Chat Crew",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MP_TEXT_CHAT_FRIENDS",
+    "hash": "7098AC73",
+    "english": "Text Chat Friends",
+    "gamesub": "Text Chat Friends",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MP_TEXT_CHAT_TEAM",
+    "hash": "9098AD9D",
+    "english": "Text Chat Team",
+    "gamesub": "兹冰偁 倱倴 再兿偂兺 偀侱",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_MULTIPLAYER_INFO",
+    "hash": "E8342FF2",
+    "english": "Multiplayer Information",
+    "gamesub": "Multiplayer Information",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_NEXT_CAMERA",
+    "hash": "7F8D09B8",
+    "english": "Cycle Camera",
+    "gamesub": "兽冰倴僨冈僤 冁冎冈倰僪",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PARACHUTE_BRAKE_LEFT",
+    "hash": "272BD8BA",
+    "english": "Parachute Brake Left",
+    "gamesub": "Parachute Brake Left",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PARACHUTE_BRAKE_RIGHT",
+    "hash": "948B3EA7",
+    "english": "Parachute Brake Right",
+    "gamesub": "Parachute Brake Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PARACHUTE_DEPLOY",
+    "hash": "EBF53058",
+    "english": "Parachute Deploy",
+    "gamesub": "Parachute Deploy",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PARACHUTE_DETACH",
+    "hash": "FFBFF139",
+    "english": "Parachute Detach",
+    "gamesub": "Parachute Detach",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PARACHUTE_PITCH_DOWN_ONLY",
+    "hash": "7C3A4352",
+    "english": "Parachute Pitch Back",
+    "gamesub": "Parachute Pitch Back",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PARACHUTE_PITCH_UD",
+    "hash": "F0526228",
+    "english": "Parachute Pitch Forward / Back",
+    "gamesub": "Parachute Pitch Forward / Back",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PARACHUTE_PITCH_UP_ONLY",
+    "hash": "08BFEA69",
+    "english": "Parachute Pitch Forward",
+    "gamesub": "Parachute Pitch Forward",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PARACHUTE_PRECISION_LANDING",
+    "hash": "C675B8BD",
+    "english": "Parachute Precision Control",
+    "gamesub": "Parachute Precision Control",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PARACHUTE_SMOKE",
+    "hash": "2574FAB0",
+    "english": "Parachute Smoke",
+    "gamesub": "Parachute Smoke",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PARACHUTE_TURN_LEFT_ONLY",
+    "hash": "C4CF3322",
+    "english": "Parachute Turn Left",
+    "gamesub": "Parachute Turn Left",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PARACHUTE_TURN_LR",
+    "hash": "8EC920BF",
+    "english": "Parachute Turn Left / Right",
+    "gamesub": "Parachute Turn Left / Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PARACHUTE_TURN_RIGHT_ONLY",
+    "hash": "2BDBA378",
+    "english": "Parachute Turn Right",
+    "gamesub": "Parachute Turn Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PHONE",
+    "hash": "4CF871D0",
+    "english": "Use Phone",
+    "gamesub": "再僿冉俜 僪倰 冀僤倱儜偂僮倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PICKUP",
+    "hash": "E6360A8E",
+    "english": "Pickup Item",
+    "gamesub": "Pickup Item",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_PUSH_TO_TALK",
+    "hash": "4BC9DABB",
+    "english": "Push to Talk",
+    "gamesub": "偀倾僟儃 冁养俘僤",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_RELOAD",
+    "hash": "E30CD707",
+    "english": "Reload",
+    "gamesub": "册僨倰僧俜 冁其冉具俜",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_REPLAY_START_STOP_RECORDING",
+    "hash": "DCA6978E",
+    "english": "Start / Stop Recording",
+    "gamesub": "冉冎僥冎冈 儊倾儇 儚償冉偁 / 儑冈僩僿",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_REPLAY_START_STOP_RECORDING_SECONDARY",
+    "hash": "8991A70B",
+    "english": "Start / Stop Action Replay Recording",
+    "gamesub": "冀僥僿 儊倾儇 冉冎僥冎冈 僤僥僛兺 僱僣侭 儚償冉偁 / 儑冈僩僿",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SAVE_REPLAY_CLIP",
+    "hash": "5B3AF9E3",
+    "english": "Cancel Recording",
+    "gamesub": "儊倾儇 冉儘其",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_CHARACTER_FRANKLIN",
+    "hash": "8E8B08CB",
+    "english": "Switch to Franklin",
+    "gamesub": "兽冰具俙兾倰僩儛 冁倴 儆冎冉儔偁",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_CHARACTER_MICHAEL",
+    "hash": "EA9256B8",
+    "english": "Switch to Michael",
+    "gamesub": "兵俙冎倱兺 冁倴 儆冎冉儔偁",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_CHARACTER_MULTIPLAYER",
+    "hash": "DFB2B3B8",
+    "english": "Switch to GTA Online",
+    "gamesub": "兽冎倱具兾俷 册倰 再偁 再僚 冁倴 兽偂儛僨",
+    "unmapped": [
+      "4FF7"
+    ]
+  },
+  {
+    "key": "INPUT_SELECT_CHARACTER_TREVOR",
+    "hash": "B00CC093",
+    "english": "Switch to Trevor",
+    "gamesub": "僨冈僩偁 冁倴 儆冎冉儔偁",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_NEXT_WEAPON",
+    "hash": "D0842EDF",
+    "english": "Next Weapon",
+    "gamesub": "册僥儔倴 冁僟具僮倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_PREV_WEAPON",
+    "hash": "F78D7337",
+    "english": "Previous Weapon",
+    "gamesub": "再具倾償 冁僟具僮倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_WEAPON",
+    "hash": "080B8809",
+    "english": "Weapon Wheel",
+    "gamesub": "倱円 冁僟具僮倰 册 冁儠具僞",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_WEAPON_AUTO_RIFLE",
+    "hash": "05EEA9D0",
+    "english": "Select Assault Rifle",
+    "gamesub": "Select Assault Rifle",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_WEAPON_HANDGUN",
+    "hash": "184960E3",
+    "english": "Select Pistol",
+    "gamesub": "再偂僮僤 冁僟具僮倰 倲倱僣偂兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_WEAPON_HEAVY",
+    "hash": "3D1675C3",
+    "english": "Select Heavy Weapon",
+    "gamesub": "兽冰保兿僮 冁僟具僮倰 倲倱僣偂兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_WEAPON_MELEE",
+    "hash": "109E6852",
+    "english": "Select Melee",
+    "gamesub": "僤僩僮 僜倱具僮 倲倱僣偂兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_WEAPON_SHOTGUN",
+    "hash": "76D3EA05",
+    "english": "Select Shotgun",
+    "gamesub": "兼倱保偁倱僿 倲倱僣偂兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_WEAPON_SMG",
+    "hash": "CEF1BB48",
+    "english": "Select SMG",
+    "gamesub": "再僚 典倰 僬倰 倲倱僣偂兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_WEAPON_SNIPER",
+    "hash": "96C61FDF",
+    "english": "Select Sniper Rifle",
+    "gamesub": "僩侮冎倱兿僮倰 冁僟具僮倰 倲倱僣偂兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_WEAPON_SPECIAL",
+    "hash": "C41ECEF8",
+    "english": "Select Special Weapon",
+    "gamesub": "儁冉億僣兺 冁僟具僮倰 倲倱僣偂兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SELECT_WEAPON_UNARMED",
+    "hash": "1F6EEB0F",
+    "english": "Select Unarmed",
+    "gamesub": "冁僟具僮倰 兼冈僥倴",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SKIP_CUTSCENE",
+    "hash": "CDC4E4E9",
+    "english": "Skip Cutscene",
+    "gamesub": "Skip Cutscene",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SNIPER_ZOOM",
+    "hash": "7ABC6A66",
+    "english": "Sniper / Camera Zoom",
+    "gamesub": "兽冰倴僨冈僤 典冈僪 / 僩侮冎倱兿僮倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SNIPER_ZOOM_IN_ONLY",
+    "hash": "A5BDCD3C",
+    "english": "Sniper / Camera Zoom In",
+    "gamesub": "僩侮冎倱兿僮倰 兽冰倴僨冈僤 冉具僚 冁倴 冈僨 典冈僪",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SNIPER_ZOOM_OUT_ONLY",
+    "hash": "430593AA",
+    "english": "Sniper / Camera Zoom Out",
+    "gamesub": "僩侮冎倱兿僮倰 兽冰倴僨冈僤 倳儠儓 冁倴 冈僨 典冈僪",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SPECIAL_ABILITY",
+    "hash": "CEE12B50",
+    "english": "Character Special Ability",
+    "gamesub": "Character Special Ability",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SPECIAL_ABILITY_PC",
+    "hash": "52E60A8B",
+    "english": "Toggle Special Ability",
+    "gamesub": "儁冉億僣兺 偀冰具倴倱償 兼僤僩俘 兴倱儔儛",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SPECIAL_ABILITY_SECONDARY",
+    "hash": "6328239B",
+    "english": "Point At",
+    "gamesub": "兼僤僩俘 冀僨倱僿倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SPRINT",
+    "hash": "8FFC75D6",
+    "english": "Sprint",
+    "gamesub": "兼僥冎冈僤",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_SWITCH_VISOR",
+    "hash": "F4E18042",
+    "english": "Toggle Helmet Visor",
+    "gamesub": "Toggle Helmet Visor",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_TALK",
+    "hash": "7DCA9C75",
+    "english": "Talk",
+    "gamesub": "Talk",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_USE_ARMOR",
+    "hash": "B296F368",
+    "english": "Use Armor (In Weapon Wheel)",
+    "gamesub": "",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_ACCELERATE",
+    "hash": "5B9FD4E2",
+    "english": "Accelerate",
+    "gamesub": "僪倱俜",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_AIM",
+    "hash": "D7CAFCEF",
+    "english": "Aim Drive-by Weapon",
+    "gamesub": "冁僟具僮倰 倱倴 再俜僥兿兾倰僨 典倱保兿円 僨僤 册僩冰保儛僥円",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_ATTACK",
+    "hash": "F4330038",
+    "english": "Fire Drive-by Weapon",
+    "gamesub": "冁僟具僮倰 倱倴 再俜僥兿兾倰僨 典倱保兿円 僨僤 俗冰具僿",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_ATTACK2",
+    "hash": "F1C341BA",
+    "english": "Fire Secondary Vehicle Weapon",
+    "gamesub": "Fire Secondary Vehicle Weapon",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_BIKE_WINGS",
+    "hash": "D74EB47B",
+    "english": "Deploy Special Bike Wings",
+    "gamesub": "Deploy Special Bike Wings",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_BRAKE",
+    "hash": "6E1F639B",
+    "english": "Brake",
+    "gamesub": "僫兺僩偁",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_CAR_JUMP",
+    "hash": "535B7CDF",
+    "english": "Special Car Jump",
+    "gamesub": "Special Car Jump",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_CINEMATIC_LR",
+    "hash": "299E7EC1",
+    "english": "Cinematic Camera Left / Right",
+    "gamesub": "Cinematic Camera Left / Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_CINEMATIC_UD",
+    "hash": "92A0331C",
+    "english": "Cinematic Camera Up / Down",
+    "gamesub": "Cinematic Camera Up / Down",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_CIN_CAM",
+    "hash": "D3D76761",
+    "english": "Cinematic Camera",
+    "gamesub": "再冎倱养兿冰僮 兽冰倴僨冈僤",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_DRIVE_LOOK",
+    "hash": "A2117C9A",
+    "english": "Toggle Drive Camera Control",
+    "gamesub": "Toggle Drive Camera Control",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_DRIVE_LOOK2",
+    "hash": "55AC04E5",
+    "english": "Toggle Drive Camera Control Secondary",
+    "gamesub": "Toggle Drive Camera Control Secondary",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_DUCK",
+    "hash": "5B3690F2",
+    "english": "Duck",
+    "gamesub": "僩僮 兼僤僨冈俷 兽冰冎倱侭",
+    "unmapped": [
+      "4FF7"
+    ]
+  },
+  {
+    "key": "INPUT_VEH_EXIT",
+    "hash": "FEFAB9B4",
+    "english": "Exit Vehicle",
+    "gamesub": "冁具冰僮冈 僪倰 偱冈僩僢",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_ATTACK",
+    "hash": "1D71D7AA",
+    "english": "Aircraft Fire",
+    "gamesub": "倱养冰侭倰冉円 僨僤 俗冰具僿",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_ATTACK2",
+    "hash": "4D83147C",
+    "english": "Aircraft Fire Secondary",
+    "gamesub": "Aircraft Fire Secondary",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_ATTACK_CAMERA",
+    "hash": "2FBA3F0B",
+    "english": "Toggle Aircraft Weapon Camera",
+    "gamesub": "Toggle Aircraft Weapon Camera",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_BOMB_BAY",
+    "hash": "ACACDA35",
+    "english": "Toggle Aircraft Bombing Mode",
+    "gamesub": "Toggle Aircraft Bombing Mode",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_BOOST",
+    "hash": "6E46B998",
+    "english": "Special Aircraft Rocket Boost",
+    "gamesub": "Special Aircraft Rocket Boost",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_COUNTER",
+    "hash": "B72B7528",
+    "english": "Deploy Aircraft Countermeasures",
+    "gamesub": "Deploy Aircraft Countermeasures",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_MOUSE_CONTROL_OVERRIDE",
+    "hash": "6C9810A5",
+    "english": "Override Aircraft Mouse Control (Hold)",
+    "gamesub": "Toggle Aircraft Mouse Control (Hold)",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_PITCH_DOWN_ONLY",
+    "hash": "0F4E369F",
+    "english": "Aircraft Pitch Back",
+    "gamesub": "Aircraft Pitch Back",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_PITCH_UD",
+    "hash": "E67E1E57",
+    "english": "Aircraft Pitch Up / Down",
+    "gamesub": "Aircraft Pitch Up / Down",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_PITCH_UP_ONLY",
+    "hash": "6280BA1A",
+    "english": "Aircraft Pitch Forward",
+    "gamesub": "Aircraft Pitch Forward",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_ROLL_LEFT_ONLY",
+    "hash": "56F84EA0",
+    "english": "Aircraft Roll Left",
+    "gamesub": "Aircraft Roll Left",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_ROLL_LR",
+    "hash": "3C8AB570",
+    "english": "Aircraft Roll Left / Right",
+    "gamesub": "Aircraft Roll Left / Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_ROLL_RIGHT_ONLY",
+    "hash": "876B3361",
+    "english": "Aircraft Roll Right",
+    "gamesub": "Aircraft Roll Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_SELECT_NEXT_WEAPON",
+    "hash": "24E94299",
+    "english": "Aircraft Next Weapon",
+    "gamesub": "倱养冰侭倰冉円 册僥儔倴 冁僟具僮倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_SELECT_PREV_WEAPON",
+    "hash": "C0D874E5",
+    "english": "Aircraft Previous Weapon",
+    "gamesub": "Aircraft Previous Weapon",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_SELECT_TARGET_LEFT",
+    "hash": "307FC4C1",
+    "english": "Aircraft Target Left",
+    "gamesub": "Aircraft Target Left",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_SELECT_TARGET_RIGHT",
+    "hash": "52F25C96",
+    "english": "Aircraft Target Right",
+    "gamesub": "Aircraft Target Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_THROTTLE_DOWN",
+    "hash": "084DFF95",
+    "english": "Aircraft Throttle Down",
+    "gamesub": "Aircraft Throttle Down",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_THROTTLE_UP",
+    "hash": "7232BAB3",
+    "english": "Aircraft Throttle Up",
+    "gamesub": "Aircraft Throttle Up",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_UNDERCARRIAGE",
+    "hash": "FE0FE518",
+    "english": "Toggle Landing Gear",
+    "gamesub": "Toggle Landing Gear",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_VERTICAL_FLIGHT_MODE",
+    "hash": "E3238029",
+    "english": "Vulkan Hover Mode",
+    "gamesub": "Vulkan Hover Mode",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_YAW_LEFT",
+    "hash": "31589AD1",
+    "english": "Aircraft Yaw Left",
+    "gamesub": "侬侱 冁倴 倱养冰侭倰冉円 儙倰僩僟兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_FLY_YAW_RIGHT",
+    "hash": "BD143FC6",
+    "english": "Aircraft Yaw Right",
+    "gamesub": "偀僮倰僨 冁倴 倱养冰侭倰冉円 儙倰僩僟兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_GRAPPLING_HOOK",
+    "hash": "B985AA5E",
+    "english": "Aircraft Grappling Hook / VTOL Mode",
+    "gamesub": "Aircraft Grappling Hook / VTOL Mode",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_GUN_LR",
+    "hash": "B6F3E4FE",
+    "english": "Vehicle Gun Left / Right",
+    "gamesub": "Vehicle Gun Left / Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_GUN_UD",
+    "hash": "482560EE",
+    "english": "Vehicle Gun Up / Down",
+    "gamesub": "Vehicle Gun Up / Down",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_HANDBRAKE",
+    "hash": "65D24C98",
+    "english": "Handbrake",
+    "gamesub": "再偂僮僤 僫兺僩偁",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_HEADLIGHT",
+    "hash": "F1301666",
+    "english": "Headlights",
+    "gamesub": "冉具僚 儕倰僩侱",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_HORN",
+    "hash": "63A0D258",
+    "english": "Horn",
+    "gamesub": "儝冉倴",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_HOTWIRE_LEFT",
+    "hash": "63424080",
+    "english": "Hotwire Left",
+    "gamesub": "Hotwire Left",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_HOTWIRE_RIGHT",
+    "hash": "91D96701",
+    "english": "Hotwire Right",
+    "gamesub": "Hotwire Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_HYDRAULICS_CONTROL_TOGGLE",
+    "hash": "BE9BC5A0",
+    "english": "Lowrider Hydraulics Toggle",
+    "gamesub": "Lowrider Hydraulics Toggle",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_LOOK_BEHIND",
+    "hash": "CAE9B017",
+    "english": "Look Behind (In Vehicle)",
+    "gamesub": "(冁具冰僮冈 僨僤) 僩僮 偀儀侭 冁倴 冀倱保兾",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_MELEE_HOLD",
+    "hash": "A41411B6",
+    "english": "Bike Melee Mode (Hold)",
+    "gamesub": "Bike Melee Mode (Hold)",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_MELEE_LEFT",
+    "hash": "F59534E2",
+    "english": "Bike Melee Hit Left",
+    "gamesub": "Bike Melee Hit Left",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_MELEE_RIGHT",
+    "hash": "C915F4CC",
+    "english": "Bike Melee Hit Right",
+    "gamesub": "Bike Melee Hit Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_MOUSE_CONTROL_OVERRIDE",
+    "hash": "39CCABD5",
+    "english": "Override Driving Mouse Control (Hold)",
+    "gamesub": "Toggle Driving Mouse Control (Hold)",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_MOVE_DOWN_ONLY",
+    "hash": "16D73E1D",
+    "english": "Lean / Tilt Backward",
+    "gamesub": "Lean / Tilt Backward",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_MOVE_LEFT_ONLY",
+    "hash": "9DF54706",
+    "english": "Steer Left",
+    "gamesub": "侬侱 冁倴 偀冎倰僥円",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_MOVE_LR",
+    "hash": "F1E2852C",
+    "english": "Steer Left / Right",
+    "gamesub": "偀僮倰僨 / 侬侱 冁倴 偀冎倰僥円",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_MOVE_RIGHT_ONLY",
+    "hash": "97A8FD98",
+    "english": "Steer Right",
+    "gamesub": "偀僮倰僨 冁倴 偀冎倰僥円",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_MOVE_UD",
+    "hash": "8A81C00C",
+    "english": "Bike Lean Forward / Back",
+    "gamesub": "Bike Lean Forward / Back",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_MOVE_UP_ONLY",
+    "hash": "DEBD7EF6",
+    "english": "Lean / Tilt Forward",
+    "gamesub": "Lean / Tilt Forward",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_NEXT_RADIO",
+    "hash": "22E0F7E7",
+    "english": "Next Radio Station",
+    "gamesub": "册僥儔倴 再冎冉冎僤倰僨 冀倱保偂僯冎倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_NEXT_RADIO_TRACK",
+    "hash": "F7FA2DDC",
+    "english": "Next Custom Radio Track",
+    "gamesub": "Next Custom Radio Track",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_PARACHUTE",
+    "hash": "EF9C0743",
+    "english": "Deploy Special Car Parachute",
+    "gamesub": "Deploy Special Car Parachute",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_PASSENGER_AIM",
+    "hash": "EE2804D0",
+    "english": "Vehicle Passenger Aim",
+    "gamesub": "Vehicle Passenger Aim",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_PASSENGER_ATTACK",
+    "hash": "27AD4433",
+    "english": "Vehicle Passenger Attack",
+    "gamesub": "Vehicle Passenger Attack",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_PREV_RADIO",
+    "hash": "9785CE13",
+    "english": "Previous Radio Station",
+    "gamesub": "再具倾償 再冎冉冎僤倰僨 冀倱保偂僯冎倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_PREV_RADIO_TRACK",
+    "hash": "0A94C4FF",
+    "english": "Previous Custom Radio Track",
+    "gamesub": "Previous Custom Radio Track",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_PUSHBIKE_FRONT_BRAKE",
+    "hash": "585E942D",
+    "english": "Bicycle Front Brake",
+    "gamesub": "Bicycle Front Brake",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_PUSHBIKE_SPRINT",
+    "hash": "F03EE151",
+    "english": "Bicycle Sprint",
+    "gamesub": "Bicycle Sprint",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_RADIO_WHEEL",
+    "hash": "4915AC0A",
+    "english": "Radio Wheel",
+    "gamesub": "冉冎僤倰僨 册 冁儠具僞",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_ROCKET_BOOST",
+    "hash": "9A1AB6A4",
+    "english": "Special Car Rocket Boost",
+    "gamesub": "Special Car Rocket Boost",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_ROOF",
+    "hash": "3E7CF9A4",
+    "english": "Toggle Vehicle Convertible Roof",
+    "gamesub": "Toggle Vehicle Convertible Roof",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SELECT_NEXT_WEAPON",
+    "hash": "889A626F",
+    "english": "Next Vehicle Weapon",
+    "gamesub": "冁冰具儠兾 冁具冰僮冈 册僥儔倴 冁僟具僮倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SELECT_PREV_WEAPON",
+    "hash": "0C97BAC7",
+    "english": "Previous Vehicle Weapon",
+    "gamesub": "冁冰具儠兾 冁具冰僮冈 再具倾償 冁僟具僮倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SLOWMO_DOWN_ONLY",
+    "hash": "642DE054",
+    "english": "Stunt Jump Slow Motion Speed Down",
+    "gamesub": "再儀冎倱养兾 僰僩侭 僨僤 冁偂僯円俷 冁兿僟儃 偀儓僩僮 僱冎倰僫儛倰",
+    "unmapped": [
+      "4FF7"
+    ]
+  },
+  {
+    "key": "INPUT_VEH_SLOWMO_UP_ONLY",
+    "hash": "2B981F4F",
+    "english": "Stunt Jump Slow Motion Speed Up",
+    "gamesub": "再儀冎倱养兾 僰僩侭 僨僤 冁偂僯円俷 冁兿僟儃 偀儓僩僮 僱円倱俘",
+    "unmapped": [
+      "4FF7"
+    ]
+  },
+  {
+    "key": "INPUT_VEH_SPECIAL",
+    "hash": "493919DB",
+    "english": "Vehicle Special",
+    "gamesub": "Vehicle Special",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SPECIAL_ABILITY_FRANKLIN",
+    "hash": "5EC33578",
+    "english": "Franklin's Special Ability",
+    "gamesub": "Franklin's Special Ability",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_STUNT_UD",
+    "hash": "4AA1560E",
+    "english": "Stunt Up / Down",
+    "gamesub": "Stunt Up / Down",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SUB_ASCEND",
+    "hash": "D7991F74",
+    "english": "Sub Ascend",
+    "gamesub": "Sub Ascend",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SUB_DESCEND",
+    "hash": "7D51DE24",
+    "english": "Sub Descend",
+    "gamesub": "Sub Descend",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SUB_MOUSE_CONTROL_OVERRIDE",
+    "hash": "2CAF327E",
+    "english": "Override Submersible Mouse Control (Hold)",
+    "gamesub": "Toggle Submersible Mouse Control (Hold)",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SUB_PITCH_DOWN_ONLY",
+    "hash": "BA2D22AA",
+    "english": "Sub Pitch Back",
+    "gamesub": "Sub Pitch Back",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SUB_PITCH_UD",
+    "hash": "469CE271",
+    "english": "Sub Pitch Up / Down",
+    "gamesub": "Sub Pitch Up / Down",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SUB_PITCH_UP_ONLY",
+    "hash": "F9EF072A",
+    "english": "Sub Pitch Forward",
+    "gamesub": "Sub Pitch Forward",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SUB_THROTTLE_DOWN",
+    "hash": "F5B2CEFB",
+    "english": "Sub Throttle Down",
+    "gamesub": "再冎倱冎僨僤僩冎僪 兼僥兺冈倰 兽冰冎倱侭",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SUB_THROTTLE_UP",
+    "hash": "D28C446F",
+    "english": "Sub Throttle Up",
+    "gamesub": "再冎倱冎僨僤僩冎僪 兼僥兺冈倰 倱其倱倴",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SUB_TURN_HARD_LEFT",
+    "hash": "64214D49",
+    "english": "Sub Hard Turn Left",
+    "gamesub": "再冎倱冎僨僤僩冎僪 侬侱 冁倴 僥冎僥僿 僱僢僩侱",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SUB_TURN_HARD_RIGHT",
+    "hash": "A44C0F83",
+    "english": "Sub Hard Turn Right",
+    "gamesub": "再冎倱冎僨僤僩冎僪 偀僮倰僨 冁倴 僥冎僥僿 僱僢僩侱",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SUB_TURN_LEFT_ONLY",
+    "hash": "44E7E093",
+    "english": "Sub Turn Left",
+    "gamesub": "Sub Turn Left",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SUB_TURN_LR",
+    "hash": "627C4619",
+    "english": "Sub Turn Left / Right",
+    "gamesub": "Sub Turn Left / Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_SUB_TURN_RIGHT_ONLY",
+    "hash": "E78A5A3C",
+    "english": "Sub Turn Right",
+    "gamesub": "Sub Turn Right",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_VEH_TRANSFORM",
+    "hash": "3CF77E69",
+    "english": "Special Vehicle Transform",
+    "gamesub": "Special Vehicle Transform",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_WEAPON_SPECIAL_TWO",
+    "hash": "50BA1A77",
+    "english": "Toggle Weapon Accessory",
+    "gamesub": "Toggle Weapon Accessory",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_WEAPON_WHEEL_NEXT",
+    "hash": "C70843F0",
+    "english": "Next Weapon in Slot",
+    "gamesub": "册僥儔倴 冁僟具僮倰 倲倱僣偂兾倰",
+    "unmapped": []
+  },
+  {
+    "key": "INPUT_WEAPON_WHEEL_PREV",
+    "hash": "8601EC91",
+    "english": "Previous Weapon in Slot",
+    "gamesub": "再具倾償 冁僟具僮倰 倲倱僣偂兾倰",
+    "unmapped": []
+  }
+]

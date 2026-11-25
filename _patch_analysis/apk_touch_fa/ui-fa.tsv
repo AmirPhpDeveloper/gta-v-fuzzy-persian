@@ -1,0 +1,336 @@
+GAME_LOCATION	محل دیتای بازی
+APPLICATION_DATA	داده‌های برنامه
+SPECIFY_DATA	پوشهٔ دیتای استخراج‌شدهٔ بازی را انتخاب کنید
+BROWSER_UNAVAILABLE	مرورگری در دسترس نیست.
+BUILD_WARNING_TITLE	نسخهٔ غیررسمی
+BUILD_WARNING_BODY	گواهی امضای برنامه یا کتابخانه‌های بومی آن تایید نشد.\n\nGWSC و بخش آنلاین در دسترس نیستند.\nنسخهٔ رسمی را از کانال رسمی پروژه دریافت کنید.
+DATA_UNAVAILABLE	دیتای بازی در دسترس نیست یا ناقص است. محل دیتای بازی را انتخاب کنید.
+DATA_MISSING_ITEMS	فایل‌ها یا پوشه‌های ضروری زیر در این پوشه نیستند:
+DATA_PATH_TOO_LONG	مسیر پوشه بیش از حد طولانی است. پوشهٔ بازی را به ریشهٔ حافظه نزدیک‌تر کنید.
+ALL_FILES_NEEDED	در تنظیمات اندروید اجازهٔ دسترسی به همهٔ فایل‌ها را بدهید و دوباره محل دیتای بازی را انتخاب کنید.
+DATA_PATH_HINT	مسیر کامل پوشهٔ استخراج‌شدهٔ بازی را وارد کنید.
+APPROVAL_PENDING	درخواست در انتظار بررسی است
+VIEW_BOOSTY	نمایش اشتراک‌های Boosty
+SELECT_THIS_FOLDER	انتخاب این پوشه
+CHOOSE_STORAGE	انتخاب حافظه
+INTERNAL_STORAGE	حافظهٔ داخلی
+STORAGE_UNAVAILABLE	خواندن این پوشه ممکن نیست. دسترسی به حافظه و اتصال آن را بررسی کنید.
+LAUNCHER_ONLY	این نسخهٔ برنامه موتور بازی را ندارد.
+TAB_STORY	داستان
+TAB_SETTINGS	تنظیمات
+SETTINGS_TITLE	تنظیمات
+RESOLUTION	وضوح تصویر
+DEFAULT_UPPER	پیش‌فرض
+NATIVE	وضوح اصلی صفحه
+VSYNC	همگام‌سازی عمودی
+OFF_UPPER	خاموش
+ON_UPPER	روشن
+TARGET_FPS	نرخ فریم هدف
+GRAPHICS_PRESET	گرافیک
+CUSTOM_UPPER	سفارشی
+NORMAL_UPPER	عادی
+HIGH_UPPER	زیاد
+SHADOW_QUALITY	کیفیت سایه‌ها
+SOFT_SHADOWS	سایه‌های نرم
+HIRES_SHADOWS	سایه‌های با وضوح بالا
+LONG_SHADOWS	سایه‌های بلند
+SHADOW_DISTANCE	فاصلهٔ بیشتر سایه‌ها
+REFLECTION_QUALITY	کیفیت بازتاب‌ها
+AMBIENT_OCCLUSION	سایه‌پردازی محیطی
+FXAA	صاف‌کردن لبه‌ها
+GRASS_QUALITY	کیفیت چمن
+PARTICLE_QUALITY	کیفیت ذرات
+WATER_QUALITY	کیفیت آب
+POST_FX	جلوه‌های تصویری
+MOTION_BLUR	تاری حرکت
+FOG_VOLUMES	مه حجمی
+ANISO	فیلتر ناهمسانگرد
+LOD_DISTANCE	فاصلهٔ نمایش
+THREAD_PINNING	تخصیص پردازش به هسته‌ها
+VULKAN_DRIVER	درایور ولکان
+SYSTEM_DRIVER	درایور سیستم
+IMPORT_DRIVER	واردکردن درایور از فایل زیپ
+DRIVER_IMPORTED	درایور وارد شد: %s
+DRIVER_IMPORT_FAILED	واردکردن درایور ممکن نشد: %s
+OCCLUSION_WARNING_TITLE	هشدار عکاسی در ماموریت‌ها
+OCCLUSION_WARNING_BODY	درایور انتخاب‌شده شمارش دقیق اشیای قابل دیدن را پشتیبانی نمی‌کند. ممکن است عکاسی از هدف‌های بعضی ماموریت‌ها، مانند دوربین‌ها و صفحه‌کلید جواهرفروشی یا نگهبانان بندر، تشخیص داده نشود و انجام آن‌ها ممکن نباشد. می‌توانید یک درایور سازگار دیگر را امتحان کنید.
+VULKAN_REQUIRED	ولکان نسخهٔ ۱٫۳ یا جدیدتر لازم است
+MISSING_PACK_TITLE	دیتای بازی ناقص است
+MISSING_PACK_BODY	یکی از فایل‌های ضروری بازی وجود ندارد یا خراب است:\n\n%s\n\nدیتای بازی را از طریق لانچر بررسی یا دوباره نصب کنید.
+VULKAN_OLD_DRIVER	درایور گرافیکی دستگاه قدیمی است؛ نسخهٔ ولکان آن %s است، ولی بازی به نسخهٔ ۱٫۳ یا جدیدتر نیاز دارد.\n\nاگر درایور سازگار دارید، آن را وارد کنید.
+DISTANCE_SCALING	مقیاس فاصله
+EXTENDED_DISTANCE	افزایش فاصلهٔ نمایش
+POP_DENSITY	تراکم جمعیت
+POP_VARIETY	تنوع جمعیت
+SETTINGS_ROOT	تنظیمات
+BENCHMARK_RUNS	اجرای آزمون عملکرد
+SECTION_DISPLAY	نمایش
+SECTION_PERFORMANCE	عملکرد
+SECTION_GRAPHICS	گرافیک
+SECTION_TOOLS	ابزارها
+SECTION_RUNS	اجراهای قبلی
+NO_RUNS	هنوز آزمون عملکرد اجرا نشده است.
+BENCHMARK_RESULTS	نتیجهٔ آزمون عملکرد
+RESULT_PASS	مرحلهٔ %1$d: میانگین %2$.1f فریم‌برثانیه؛ کمترین %3$.1f و بیشترین %4$.1f
+RESULT_FRAMES	%1$s از فریم‌ها دست‌کم ۶۰ و %2$s دست‌کم ۳۰ فریم‌برثانیه بودند؛ ۹۹%% کمتر از %3$d میلی‌ثانیه
+DESC_RESOLUTION	وضوحی که بازی با آن تصویر را می‌سازد. وضوح کمتر سریع‌تر است؛ وضوح اصلی، اندازهٔ خود صفحه است.
+DESC_VSYNC	پیش از نمایش هر فریم منتظر نوسازی صفحه می‌ماند. خاموش‌کردن ممکن است سریع‌تر باشد، ولی پارگی تصویر ایجاد کند.
+DESC_FPS	نرخ فریمی که بازی حفظ می‌کند. مقدار کمتر مصرف باتری و گرما را کاهش می‌دهد.
+DESC_PINNING	هسته‌های سریع و کند پردازنده را برای پردازش بازی تعیین می‌کند. در حالت خاموش، اندروید تصمیم می‌گیرد؛ اگر بازی مکث دارد حالت روشن را امتحان کنید.
+DESC_DRIVER	درایور ولکان مورد استفادهٔ بازی. در صورت داشتن درایور سازگار نسخهٔ ۱٫۳ یا جدیدتر، آن را وارد کنید.
+DESC_IMPORT	بستهٔ درایور سازگار ولکان ۱٫۳ یا جدیدتر را وارد کنید؛ فایل زیپ باید شامل meta.json باشد.
+DESC_PRESET	تنظیمات گرافیکی کم، پیش‌فرض یا بسیار زیاد؛ در حالت سفارشی هر گزینه را خودتان تعیین می‌کنید.
+DESC_RUN	آزمون عملکرد داخلی بازی را حدود چهار دقیقه اجرا می‌کند و در پایان نتیجه را نشان می‌دهد.
+REMOVE_DRIVER	حذف درایور
+DESC_REMOVE_DRIVER	درایور واردشده را حذف می‌کند. اگر فعال باشد، بازی به درایور خود گوشی برمی‌گردد.
+DRIVER_REMOVED	درایور حذف شد: %s
+LOW_UPPER	کم
+ULTRA_UPPER	بسیار زیاد
+UNLIMITED	نامحدود
+SETTINGS_NOTE	در اجرای بعدی بازی اعمال می‌شود.
+PLAY	بازی
+BENCHMARK	آزمون عملکرد
+COMMAND_LINE	فرمان‌های اجرا
+CLEAR_CACHE	پاک‌کردن حافظهٔ موقت
+EMAIL	ایمیل
+PASSWORD	رمز عبور
+SIGN_IN	ورود
+SIGNING_IN	در حال ورود...
+CREATE_ACCOUNT	ساخت حساب
+SERVER	سرور
+PLAY_ONLINE	بازی آنلاین
+FRIENDS	دوستان
+FRIENDS_COUNT	دوستان %1$d/%2$d
+FRIENDS_UPPER	دوستان
+REQUESTS_UPPER	درخواست‌ها
+SENT_UPPER	ارسال‌شده
+ACCOUNT	حساب
+SIGN_OUT	خروج از حساب
+ADD_BY_NICKNAME	افزودن با نام کاربری
+ADD	افزودن
+GAME_READY	بازی آماده است.
+DATA_NOT_FOUND	دیتای بازی در %s پیدا نشد
+SHADER_CACHE	حافظهٔ موقت سایه‌زن‌ها: %s
+EMPTY	خالی
+COMMAND_LINE_STATUS	فرمان‌های اجرا: %s
+NONE	ندارد
+LAST_BENCHMARK	آخرین آزمون: %s فریم‌برثانیه
+SIGN_IN_TO	ورود به %s
+SIGN_IN_TO_CLOSED	ورود به %s؛ ثبت‌نام بسته است
+CHECKING	%1$s (%2$s): در حال بررسی...
+ONLINE_COUNT	%d نفر آنلاین
+ACCOUNTS_COUNT	%d حساب
+ENTER_EMAIL	ایمیل و رمز عبور خود را وارد کنید.
+NICKNAME_HINT	نام کاربری؛ ۳ تا ۱۶ حرف، عدد یا نشانه‌های _ . -
+PASSWORD_HINT	رمز عبور؛ دست‌کم ۸ نویسه
+CONFIRM_PASSWORD	تکرار رمز عبور
+CREATE_TITLE	ساخت حساب %s
+CREATE	ساخت
+CANCEL	لغو
+PASSWORDS_MISMATCH	رمزهای عبور یکسان نیستند.
+WELCOME	خوش آمدی، %s!
+SERVER_HINT	سرور؛ پیش‌فرض %s
+SELF_SIGNED	پذیرش گواهی با امضای شخصی
+WORKAROUNDS	نادیده‌گرفتن فایل‌های ابری، تراکنش‌ها و فهرست کالاها
+SERVER_MESSAGE	خالی‌گذاشتن، %1$s (%2$s) تنظیم‌شده در rline/gwsc.cpp را انتخاب می‌کند.
+SAVE	ذخیره
+BAD_HOST	نام میزبان یا نشانی را بدون https:// و مسیر وارد کنید.
+SERVER_CHANGED	سرور تغییر کرد؛ دوباره وارد حساب شوید.
+DEFAULT	پیش‌فرض
+CHANGE_NICKNAME	تغییر نام کاربری
+CHANGE_PASSWORD	تغییر رمز عبور
+OPEN_WEBSITE	بازکردن وب‌سایت سوشال‌کلاب
+SERVER_SETTINGS	تنظیمات سرور
+SIGN_OUT_EVERYWHERE	خروج از همهٔ دستگاه‌ها
+NICKNAME_MESSAGE	بازیکنان دیگر این نام را می‌بینند؛ از ورود بعدی در بازی استفاده می‌شود.
+NICKNAME_SAVED	نام کاربری ذخیره شد.
+CURRENT_PASSWORD	رمز عبور فعلی
+NEW_PASSWORD	رمز عبور جدید؛ دست‌کم ۸ نویسه
+CONFIRM_NEW	تکرار رمز عبور جدید
+PASSWORD_MESSAGE	حساب در همهٔ دستگاه‌های دیگر بسته می‌شود.
+CHANGE	تغییر
+NEW_MISMATCH	رمزهای عبور جدید یکسان نیستند.
+PASSWORD_CHANGED	رمز عبور تغییر کرد.
+SIGN_OUT_ALL_MESSAGE	همهٔ نشست‌های این حساب در وب‌سایت، دستگاه‌های دیگر و این لانچر بسته می‌شوند.
+NO_FRIENDS	هنوز دوستی ندارید؛ از بالا با نام کاربری کسی را اضافه کنید.
+ACCEPT	پذیرش
+FRIEND_ONLINE	%s اکنون آنلاین است.
+FRIEND_REQUEST	%s برای شما درخواست دوستی فرستاد.
+FRIEND_ACCEPTED	%s درخواست دوستی شما را پذیرفت.
+NOW_FRIENDS	شما و %s اکنون دوست هستید.
+DECLINE	رد درخواست
+DECLINED	درخواست رد شد.
+CANCELLED	درخواست لغو شد.
+REMOVE_TITLE	%s حذف شود؟
+REMOVE	حذف
+REMOVED	%s حذف شد.
+REQUEST_SENT	درخواست برای %s ارسال شد.
+ONLINE	آنلاین
+NEVER_PLAYED	هنوز بازی نکرده
+SEEN_MIN	آخرین بازدید %d دقیقه پیش
+SEEN_HOURS	آخرین بازدید %d ساعت پیش
+SEEN_DAYS	آخرین بازدید %d روز پیش
+OFFLINE	آفلاین
+WRITE_FAILED	نوشتن %s ممکن نشد
+SIGN_IN_FIRST	ابتدا وارد حساب شوید.
+NO_SERVER	سروری تعیین نشده؛ آن را در بخش سرور تنظیم کنید.
+QUOTES	ایمیل و رمز عبور نباید نویسهٔ نقل‌قول دوتایی داشته باشند.
+RUN_BENCHMARK	اجرای آزمون عملکرد
+BENCHMARK_MESSAGE	آزمون داخلی بازی شامل هر پنج مرحله و زمان فریم‌ها اجرا می‌شود. در پایان بازی بسته و نتیجه در %s ذخیره می‌شود.
+RUN	اجرا
+COMMAND_LINE_MESSAGE	فرمان‌های اضافی موتور در هر اجرا اعمال می‌شوند. با فاصله یا خط جدید جدا کنید؛ نقل‌قول دوتایی فاصله‌ها را حفظ می‌کند و # یک خط را نادیده می‌گیرد.
+SAVED	ذخیره شد
+SAVE_FAILED	ذخیرهٔ %s ممکن نشد
+CLEAR_TITLE	پاک‌کردن حافظهٔ سایه‌زن‌ها
+CLEAR_MESSAGE	سایه‌زن‌های ترجمه‌شده و حافظهٔ پایپ‌لاین پاک می‌شوند؛ %.1f مگابایت. در اجرای بعدی دوباره ساخته می‌شوند و تا آن زمان ممکن است مکث ایجاد شود.
+CLEAR	پاک‌کردن
+CACHE_CLEARED	حافظهٔ سایه‌زن‌ها پاک شد
+CACHE_PARTIAL	حذف بعضی فایل‌های موقت ممکن نشد
+STORE	فروشگاه
+BACK_TO_GAME	بازگشت به بازی
+STORE_FREE	در %s رایگان است. کارت‌های دریافت‌شده پس از بازگشت به نشست به بانک می‌رسند.
+STORE_SIGN_IN	ابتدا در زبانهٔ آنلاین لانچر وارد حساب شوید.
+BANK	بانک %s
+ON_ITS_WAY	(+%s در راه است)
+CLAIM	دریافت
+CLAIMED	%s دریافت شد.
+STARTER_PACK	بستهٔ آغازین فعالیت‌های مجرمانه
+YOURS	متعلق به شما
+STARTER_DESC	املاک، خودروها، سلاح‌ها و لباس‌ها
+STARTER_CLAIMED	بستهٔ آغازین دریافت شد.
+NO_SERVER_SET	سرور تعیین نشده
+SERVER_ANSWERED	سرور پاسخ %d داد.
+NOT_GWSC	سرور %s پاسخ سازگار با GWSC نداد.
+CANT_REACH	اتصال به %1$s ممکن نیست؛ %2$s.
+THE_SERVER	سرور
+TOUCH_LAYOUT	چیدمان کنترل لمسی
+DONE	انجام شد
+LAYOUT_UPPER	چیدمان
+GUIDANCE	برای جابه‌جایی، کنترل را بکشید. برای تغییر اندازه، آن را انتخاب کنید.
+SELECT_CONTROL	یک کنترل انتخاب کنید
+SIZE	اندازه
+SIZE_PCT	اندازه: %d%%
+CONTROL_SIZE	اندازهٔ کنترل
+SAVED_AUTO	خودکار ذخیره شد
+RESET_LAYOUT	بازنشانی این چیدمان
+GAMEPLAY	بازی
+SHOW_MORE	نمایش دکمهٔ بیشتر
+STEERING	فرمان
+STEER_LEFT	فرمان به چپ
+STEER_RIGHT	فرمان به راست
+STEERING_ANALOG	آنالوگ
+STEERING_BUTTONS	چپ و راست
+GYRO_AIM	ژیروسکوپ هنگام نشانه‌گیری
+GYRO_NONE	ژیروسکوپ در دسترس نیست
+GYRO_SENS	حساسیت ژیروسکوپ: %d%%
+GYRO_SENS_DESC	حساسیت ژیروسکوپ
+CHOOSE_LAYOUT	انتخاب چیدمان
+CONTROLLER_TRAY	کنترلر؛ برای بستن «بیشتر» را بزنید
+TAB_ONLINE	آنلاین
+SELECT	انتخاب
+BACK	بازگشت
+ALERT	هشدار
+PLAY_ANYWAY	اجرای بازی با این تنظیمات
+CHECKING_UPDATES	در حال بررسی به‌روزرسانی...
+UPDATE_AVAILABLE	به‌روزرسانی موجود است
+UPDATE_APP	نسخهٔ جدید بازی برای دریافت آماده است.
+UPDATE_FILES	فایل‌های جدید بازی برای دریافت آماده‌اند.
+FILES_MISSING	فایل‌های بازی هنوز دریافت نشده‌اند.
+SELECT_TO_UPDATE	برای به‌روزرسانی انتخاب کنید.
+ACHIEVEMENTS	دستاوردها
+HIDDEN_ACHIEVEMENT	دستاورد پنهان
+ACH_PROGRESS	%1$d از %2$d آزاد شده
+SEARCH_FRIENDS	جست‌وجوی دوستان
+ALL	همه
+IN_GTA_ONLINE	در GTA Online
+JOIN_SESSION	پیوستن به نشست GTA Online
+JOINING	در حال پیوستن به %1$s...
+JOIN_SIGNIN	برای پیوستن به نشست‌ها وارد GWSC شوید.
+JOIN_NOSESSION	نشست قابل پیوستنی برای %1$s وجود ندارد.
+JOIN_FAILED	پیوستن به %1$s ممکن نشد.
+EXIT_OVERLAY	بستن پنجرهٔ روی بازی
+MEMBER_SINCE	عضویت از %1$s
+SELECT_FRIEND	برای نمایش نمایه، یک دوست را انتخاب کنید.
+FRIENDS_ONLY	فقط دوستان می‌توانند دستاوردها و آمار را ببینند.
+ADD_FRIEND	افزودن دوست
+RECENT_UNLOCKS	تازه آزادشده‌ها
+GTAO_RANK	رتبهٔ GTA Online: %1$d
+TOAST_SETTING	اعلان‌ها روی بازی
+MESSAGES	پیام‌ها
+SEND	ارسال
+SEND_MESSAGE	ارسال پیام
+MESSAGE_BUTTON	پیام
+NEW_GROUP	گروه جدید
+GROUP_NAME	نام گروه
+NO_CONVERSATIONS	هنوز گفت‌وگویی ندارید. از نمایهٔ یک دوست پیام بفرستید یا با + گروه بسازید.
+PICK_CONVERSATION	یک گفت‌وگو انتخاب کنید.
+MESSAGE_DELETED	پیام حذف شد
+YOU_PREFIX	شما: 
+BLOCK	مسدودکردن
+UNBLOCK	رفع مسدودی
+BLOCK_CONFIRM	%1$s مسدود شود؟ دوستی شما پایان می‌یابد و دیگر نمی‌تواند درخواست یا پیام بفرستد.
+LEAVE	ترک گروه
+PICTURE	تصویر نمایه
+PICTURE_WEB	تصویر دلخواه را در وب‌سایت بارگذاری کنید.
+FRIENDS_N	%1$d دوست
+INVITE_SESSION	دعوت به نشست من
+INVITE_SENT	دعوت برای %1$s ارسال شد.
+INVITE_FAILED	دعوت از %1$s ممکن نیست؛ ابتدا وارد یک نشست GTA Online شوید.
+PLAYING_GTAV	در حال بازی GTA V
+KEEP_OFFLINE	اتصال به %1$s ممکن نیست. حالت آفلاین ادامه پیدا کند؟
+CONTINUE_OFFLINE	ادامه به‌صورت آفلاین
+NO_INTERNET	اتصال اینترنت وجود ندارد.
+DOWNLOAD	دریافت
+UPDATE	به‌روزرسانی
+UPDATE_AND_PLAY	به‌روزرسانی و اجرا
+CHECK_UPDATES	بررسی به‌روزرسانی
+DOWNLOADING	در حال دریافت...
+READY_TO_DOWNLOAD	آمادهٔ دریافت.
+DEBUG_SCRIPT_MODE	حالت اشکال‌زدایی اسکریپت‌ها؛ فایل‌های بازی بررسی نشده‌اند.
+VERIFY_FILES	فایل‌های بازی نیاز به بررسی یا تعمیر دارند. برای بررسی «دریافت» یا «واردکردن» را انتخاب کنید.
+NEEDS_REPAIR	فایل‌های بازی نیاز به تعمیر دارند. «دریافت» را بزنید.
+PREPARED_WAIT	فایل‌های بازی آماده‌اند؛ اکنون تا روز دوازدهم منتظر بمانید.
+SELECT_MIRROR	انتخاب سرور دریافت
+TESTING_MIRRORS	در حال بررسی...
+MIRROR_HINT	پینگ و سرعت دریافت هر سرور با همین دستگاه بررسی شد. سریع‌ترین انتخاب شده؛ در صورت نیاز سرور دیگری انتخاب کنید.
+MIRROR_HINT_LAST	پینگ و سرعت دریافت هر سرور با همین دستگاه بررسی شد. آخرین سرور شما انتخاب شده؛ برای تغییر، سرور دیگری انتخاب کنید.
+NO_MIRROR	هیچ سروری فایل‌های بازی را ارائه نکرد. اتصال را بررسی و دوباره امتحان کنید.
+FASTEST	سریع‌ترین
+TEST_AGAIN	بررسی دوباره
+MIRROR_OLDER	نسخهٔ قدیمی‌تر
+MIRROR_NO_FILES	بدون فایل بازی
+MIRROR_DOWN	در دسترس نیست
+SELECTING_MIRROR	در حال انتخاب سرور...
+SELECTED_MIRROR	سرور انتخاب‌شده: %s
+DOWNLOADING_FROM	در حال دریافت از %s
+GETTING_LIST	در حال دریافت فهرست فایل‌ها...
+CONTACTING	در حال اتصال به %s...
+CONTACTING_SERVER	در حال اتصال به سرور انتشار...
+CHECKING_FILE	در حال بررسی %s
+PRELOAD_VERIFIED	دیتای اولیه قبلاً بررسی شده؛ در حال بررسی به‌روزرسانی بازی...
+GAME_CRASHED	بازی کرش کرد
+GAME_CLOSED_MEMORY	بازی بسته شد
+CRASH_SAVED	بازی به‌طور غیرمنتظره بسته شد. گزارش با نام %s در پوشهٔ دریافت‌ها ذخیره شد؛ آن را برای سازندگان بفرستید.
+CRASH_LOW_MEMORY	اندروید به‌دلیل کمبود حافظه بازی را بست. برنامه‌های دیگر را ببندید یا وضوح و گرافیک را کم کنید. گزارش با نام %s در دریافت‌ها ذخیره شد.
+CRASH_NOT_SAVED	بازی به‌طور غیرمنتظره بسته شد. گزارش در پوشهٔ userdata بازی با نام GameCrash.log است.
+SHARE	اشتراک‌گذاری
+IMPORT_FILES	واردکردن
+IMPORT_FOLDER	از پوشه
+IMPORT_ZIP	از فایل زیپ
+IMPORTING	در حال واردکردن %s
+IMPORT_DONE	%1$d فایل آماده است؛ %2$d فایل هنوز باید دریافت شود.
+TEXTURE_QUALITY	کیفیت بافت‌ها
+VERY_HIGH_UPPER	خیلی زیاد
+DESC_TEXTURES	حالت خیلی زیاد از بافت‌های باکیفیت بازی استفاده می‌کند؛ حالت زیاد آن‌ها را کنار می‌گذارد و حالت عادی اندازهٔ هر بافت بزرگ را نصف می‌کند. روی گوشی‌های با کمتر از حدود ۹٫۵ گیگابایت رم، پیش‌فرض عادی است چون حالت خیلی زیاد باعث کمبود حافظه می‌شود؛ روی بقیه، خیلی زیاد پیش‌فرض است.
+UP_TO_DATE	فایل‌های بازی به‌روز هستند.
+ALLOW_INSTALLS	اجازهٔ نصب از Fuzzy را بدهید و دوباره «بررسی به‌روزرسانی» را بزنید.
+DOWNLOADING_UPDATE	در حال دریافت به‌روزرسانی بازی...
+CONFIRM_INSTALL	نصب به‌روزرسانی را در نصب‌کنندهٔ اندروید تایید کنید.
+DOWNLOAD_STOPPED	دریافت متوقف شد.
+DOWNLOADS	دریافت‌ها
+DOWNLOADING_FILES	در حال دریافت فایل‌های بازی
+STARTING	در حال شروع...
+FILES_READY	فایل‌های بازی آماده‌اند
+ALL_DOWNLOADED	همهٔ فایل‌ها دریافت شده‌اند.
+UPDATE_READY	به‌روزرسانی بازی آماده است
+TAP_TO_INSTALL	برای نصب بزنید.

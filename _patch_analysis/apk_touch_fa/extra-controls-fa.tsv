@@ -1,0 +1,126 @@
+LOOK LR	نگاه به چپ و راست
+LOOK UD	نگاه به بالا و پایین
+SCRIPTED FLY UD	پرواز به بالا و پایین
+SCRIPTED FLY LR	پرواز به چپ و راست
+SCRIPTED FLY ZUP	افزایش ارتفاع
+SCRIPTED FLY ZDOWN	کاهش ارتفاع
+WEAPON WHEEL UD	انتخاب سلاح عمودی
+WEAPON WHEEL LR	انتخاب سلاح افقی
+SNIPER ZOOM IN SECONDARY	بزرگ‌نمایی دوم دوربین
+SNIPER ZOOM OUT SECONDARY	کوچک‌نمایی دوم دوربین
+CONTEXT SECONDARY	تعامل دوم
+WEAPON SPECIAL	عمل ویژهٔ سلاح
+THROW GRENADE	پرتاب نارنجک
+CINEMATIC UP ONLY	دوربین سینمایی به بالا
+CINEMATIC DOWN ONLY	دوربین سینمایی به پایین
+SHUFFLE	تغییر صندلی
+DROP PROJECTILE	رها کردن پرتابه
+FLY DUCK	خم شدن در هواگرد
+PUSHBIKE PEDAL	پدال زدن
+PUSHBIKE REAR BRAKE	ترمز عقب دوچرخه
+MELEE ATTACK ALTERNATE	حملهٔ نزدیک جایگزین
+SCRIPT LEFT AXIS X	محور افقی دستهٔ چپ
+SCRIPT LEFT AXIS Y	محور عمودی دستهٔ چپ
+SCRIPT RIGHT AXIS X	محور افقی دستهٔ راست
+SCRIPT RIGHT AXIS Y	محور عمودی دستهٔ راست
+SCRIPT RUP	Y
+SCRIPT RDOWN	A
+SCRIPT RLEFT	X
+SCRIPT RRIGHT	B
+SCRIPT LB	LB
+SCRIPT RB	RB
+SCRIPT LT	LT
+SCRIPT RT	RT
+SCRIPT LS	L3
+SCRIPT RS	R3
+SCRIPT PAD UP	جهت بالا
+SCRIPT PAD DOWN	جهت پایین
+SCRIPT PAD LEFT	جهت چپ
+SCRIPT PAD RIGHT	جهت راست
+SCRIPT SELECT	انتخاب
+CURSOR ACCEPT	تایید نشانگر
+CURSOR CANCEL	لغو نشانگر
+CURSOR X	نشانگر افقی
+CURSOR Y	نشانگر عمودی
+CURSOR SCROLL UP	پیمایش به بالا
+CURSOR SCROLL DOWN	پیمایش به پایین
+CREATOR LS	L3
+CREATOR RS	R3
+CREATOR LT	LT
+CREATOR RT	RT
+CREATOR MENU TOGGLE	نمایش منوی سازنده
+CREATOR ACCEPT	تایید در سازنده
+CREATOR DELETE	حذف در سازنده
+RAPPEL JUMP	پرش هنگام فرود با طناب
+RAPPEL LONG JUMP	پرش بلند با طناب
+RAPPEL SMASH WINDOW	شکستن پنجره
+PREV WEAPON	سلاح قبلی
+MELEE ATTACK1	حملهٔ نزدیک اول
+MELEE ATTACK2	حملهٔ نزدیک دوم
+WHISTLE	سوت زدن
+MOVE UP	حرکت به بالا
+MOVE DOWN	حرکت به پایین
+SNIPER ZOOM IN	بزرگ‌نمایی دوربین
+SNIPER ZOOM OUT	کوچک‌نمایی دوربین
+SNIPER ZOOM IN ALTERNATE	بزرگ‌نمایی جایگزین دوربین
+SNIPER ZOOM OUT ALTERNATE	کوچک‌نمایی جایگزین دوربین
+GUN LEFT	گرداندن سلاح به چپ
+GUN RIGHT	گرداندن سلاح به راست
+GUN UP	گرداندن سلاح به بالا
+GUN DOWN	گرداندن سلاح به پایین
+SCALED LOOK LR	نگاه افقی
+SCALED LOOK UD	نگاه عمودی
+SCALED LOOK UP ONLY	نگاه به بالا
+SCALED LOOK DOWN ONLY	نگاه به پایین
+SCALED LOOK LEFT ONLY	نگاه به چپ
+SCALED LOOK RIGHT ONLY	نگاه به راست
+REPLAY MARKER DELETE	حذف نشانگر بازپخش
+REPLAY CLIP DELETE	حذف کلیپ بازپخش
+REPLAY PAUSE	توقف بازپخش
+REPLAY REWIND	عقب بردن بازپخش
+REPLAY FFWD	جلو بردن بازپخش
+REPLAY NEWMARKER	نشانگر جدید بازپخش
+REPLAY RECORD	ضبط بازپخش
+REPLAY SCREENSHOT	گرفتن تصویر
+REPLAY HIDEHUD	پنهان کردن رابط
+REPLAY STARTPOINT	نقطهٔ شروع
+REPLAY ENDPOINT	نقطهٔ پایان
+REPLAY ADVANCE	جلو رفتن بازپخش
+REPLAY BACK	عقب رفتن بازپخش
+REPLAY TOOLS	ابزارهای بازپخش
+REPLAY RESTART	شروع دوبارهٔ بازپخش
+REPLAY SHOWHOTKEY	نمایش میان‌برها
+REPLAY CYCLEMARKERLEFT	نشانگر قبلی
+REPLAY CYCLEMARKERRIGHT	نشانگر بعدی
+REPLAY FOVINCREASE	افزایش میدان دید
+REPLAY FOVDECREASE	کاهش میدان دید
+REPLAY CAMERAUP	دوربین به بالا
+REPLAY CAMERADOWN	دوربین به پایین
+REPLAY SAVE	ذخیرهٔ بازپخش
+REPLAY TOGGLETIME	نمایش زمان
+REPLAY TOGGLETIPS	نمایش راهنما
+REPLAY PREVIEW	پیش‌نمایش بازپخش
+REPLAY TOGGLE TIMELINE	نمایش خط زمان
+REPLAY TIMELINE PICKUP CLIP	برداشتن کلیپ
+REPLAY TIMELINE DUPLICATE CLIP	تکثیر کلیپ
+REPLAY TIMELINE PLACE CLIP	قرار دادن کلیپ
+REPLAY CTRL	کنترل بازپخش
+REPLAY TIMELINE SAVE	ذخیرهٔ خط زمان
+REPLAY PREVIEW AUDIO	پیش‌شنوی صدا
+RADIO WHEEL UD	انتخاب رادیو عمودی
+RADIO WHEEL LR	انتخاب رادیو افقی
+SLOWMO UD	کنترل حرکت آهسته
+HYDRAULICS CONTROL LEFT	هیدرولیک چپ
+HYDRAULICS CONTROL RIGHT	هیدرولیک راست
+HYDRAULICS CONTROL UP	هیدرولیک بالا
+HYDRAULICS CONTROL DOWN	هیدرولیک پایین
+HYDRAULICS CONTROL LR	هیدرولیک چپ و راست
+HYDRAULICS CONTROL UD	هیدرولیک بالا و پایین
+MAP POI	نقطهٔ مهم نقشه
+REPLAY SNAPMATIC PHOTO	عکس اسنپ‌متیک
+QUAD LOCO REVERSE	حرکت معکوس
+RESPAWN FASTER	بازگشت سریع‌تر
+HUDMARKER SELECT	انتخاب نشانگر
+MAX INPUTS	ورودی‌ها
+UNDEFINED INPUT	ورودی تعریف‌نشده
+DYNAMIC MAPPING MOUSE X	محور افقی ماوس

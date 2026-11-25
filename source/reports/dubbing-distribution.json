@@ -1,0 +1,14 @@
+{
+  "Fuzzy-Dubbing-fa.part1.rar": {
+    "bytes": 1887436800,
+    "sha256": "8daeb574b1f950022d13f4a771fe2d96a81949bd98a0fbc504246ec0719c8c2a",
+    "password": "mobeegame",
+    "rar_test": "PASS"
+  },
+  "Fuzzy-Dubbing-fa.part2.rar": {
+    "bytes": 478602878,
+    "sha256": "250b9163acdaf873a0148bed107e0503c1bfa1e714abac4ef805a3a1f275b53e",
+    "password": "mobeegame",
+    "rar_test": "PASS"
+  }
+}
