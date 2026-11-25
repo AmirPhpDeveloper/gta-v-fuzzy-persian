@@ -17,5 +17,6 @@
       "bytes": 333024256,
       "sha256": "58ce41f506799fbd2e67418fc17f2c5473a94a1bd93391b7691e4b27251fb075"
     }
-  ]
+  ],
+  "extracted_content_sha256_verified": true
 }

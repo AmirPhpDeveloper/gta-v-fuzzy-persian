@@ -13,8 +13,8 @@
     },
     {
       "file": "Fuzzy-Localization-fa.rar",
-      "bytes": 172176974,
-      "sha256": "df3bf12735e9661bf802c98d7e9b41482d9ee8bbaf4c821b3fdaced516c1d29e"
+      "bytes": 1140752206,
+      "sha256": "014eff45a276a663b56d0d05ece6f30ed0bb28489b6395ea402229f559852b3f"
     },
     {
       "file": "Fuzzy-Dubbing-fa.part1.rar",
@@ -28,8 +28,9 @@
     },
     {
       "file": "README-INSTALL-FA.txt",
-      "bytes": 11141,
-      "sha256": "7a3fb3d5e36589dde3c381e1ea20bd3fe815a85d1ba1ff135fd071dc59494fe5"
+      "bytes": 5200,
+      "sha256": "10109dd2a037048f3078a88128b3dc7c76520bb3b286b712bec5cac6786ce50d"
     }
-  ]
+  ],
+  "localization_mode": "direct-copy-two-update-files-only"
 }
