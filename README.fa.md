@@ -8,7 +8,7 @@
 
 متن فارسی • دوبلهٔ مستقل • نسخهٔ عادی و ترینر
 
-[![Download](https://img.shields.io/badge/دانلود-Releases-7c3aed?style=for-the-badge)](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/latest)
+[![دانلود فایل‌ها](assets/download-fa.svg)](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/latest)
 [![Telegram](https://img.shields.io/badge/Telegram-MOBEE_GAME-229ED9?style=for-the-badge&logo=telegram)](https://t.me/mobeegame)
 [![Guide](https://img.shields.io/badge/Language-English-20252b?style=for-the-badge)](README.md)
 

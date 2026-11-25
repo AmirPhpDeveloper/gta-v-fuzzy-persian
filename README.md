@@ -10,7 +10,7 @@ Independent voice & text packages · Normal & Trainer editions
 
 [![Download](https://img.shields.io/badge/Download-Releases-7c3aed?style=for-the-badge)](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/latest)
 [![Telegram](https://img.shields.io/badge/Telegram-MOBEE_GAME-229ED9?style=for-the-badge&logo=telegram)](https://t.me/mobeegame)
-[![Persian](https://img.shields.io/badge/زبان-فارسی-16a34a?style=for-the-badge)](README.fa.md)
+[![فارسی](assets/language-fa.svg)](README.fa.md)
 
 **AmirPhpDeveloper × mobeegame**
 
