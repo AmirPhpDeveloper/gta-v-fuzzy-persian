@@ -12,7 +12,7 @@
       "sha256": "857dfc30bf20e39c534cb0ee5c1c8b365a46f688997b2ba0ecea31dbf6c517dc"
     },
     {
-      "file": "Fuzzy-Localization-fa.rar",
+      "file": "Fuzzy-Subtitles-2Updates-fa.rar",
       "bytes": 1140752206,
       "sha256": "014eff45a276a663b56d0d05ece6f30ed0bb28489b6395ea402229f559852b3f"
     },
@@ -28,8 +28,8 @@
     },
     {
       "file": "README-INSTALL-FA.txt",
-      "bytes": 5200,
-      "sha256": "10109dd2a037048f3078a88128b3dc7c76520bb3b286b712bec5cac6786ce50d"
+      "bytes": 5206,
+      "sha256": "395967a4af8b8889f4def3128caf82dd97ace7b28db893e5dd8865768739b0bd"
     }
   ],
   "localization_mode": "direct-copy-two-update-files-only"

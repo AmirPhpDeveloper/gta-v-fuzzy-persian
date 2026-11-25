@@ -2,7 +2,7 @@ from pathlib import Path
 import subprocess,json,hashlib
 ROOT=Path(__file__).resolve().parent;PROJECT=ROOT.parent.parent;OUT=PROJECT/'Persian-Complete/releases'
 GAME=ROOT.parent/'full_patch_v6/patch_root/com.thegwchr.fuzzy/files/game'
-RAR=r'C:\Program Files\WinRAR\Rar.exe';archive=OUT/'Fuzzy-Localization-fa.rar'
+RAR=r'C:\Program Files\WinRAR\Rar.exe';archive=OUT/'Fuzzy-Subtitles-2Updates-fa.rar'
 previous=OUT/'Fuzzy-Localization-Compact-fa.rar'
 if archive.exists() and not previous.exists():archive.rename(previous)
 inputs=[GAME/'update/update.rpf',GAME/'update/update2.rpf']

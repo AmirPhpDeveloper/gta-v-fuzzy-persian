@@ -8,7 +8,7 @@
 
 متن فارسی • دوبلهٔ مستقل • نسخهٔ عادی و ترینر
 
-[![دانلود فایل‌ها](assets/download-fa.svg)](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/latest)
+[![دانلود زیرنویس](assets/download-fa.svg)](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/download/v1.0.0-fa/Fuzzy-Subtitles-2Updates-fa.rar)
 [![Telegram](https://img.shields.io/badge/Telegram-MOBEE_GAME-229ED9?style=for-the-badge&logo=telegram)](https://t.me/mobeegame)
 [![Guide](https://img.shields.io/badge/Language-English-20252b?style=for-the-badge)](README.md)
 
@@ -22,9 +22,13 @@
 
 ## انتخاب بسته
 
+**[دانلود مستقیم زیرنویس — فقط update.rpf و update2.rpf](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/download/v1.0.0-fa/Fuzzy-Subtitles-2Updates-fa.rar)** · [APK عادی fa](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/download/v1.0.0-fa/Fuzzy-Normal-fa.apk) · [APK ترینر fa](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/download/v1.0.0-fa/Fuzzy-Trainer-fa.apk)
+
+برای اشتباه‌نشدن با بستهٔ قبلی، نام فایل زیرنویس **`Fuzzy-Subtitles-2Updates-fa.rar`** است. گزینه‌های خودکار **Source code (zip/tar.gz)** گیت‌هاب حاوی کد و ابزارهای پروژه‌اند؛ برای نصب زیرنویس، لینک مستقیم بالا را بزنید.
+
 | حالت | دانلود و نصب | فایل دیتای تغییرکرده |
 |---|---|---|
-| فقط فارسی‌ساز | `Fuzzy-Localization-fa.rar`، سپس یکی از APKهای عادی یا ترینر fa | `update/update.rpf` و `update/update2.rpf` |
+| فقط فارسی‌ساز | `Fuzzy-Subtitles-2Updates-fa.rar`، سپس یکی از APKهای عادی یا ترینر fa | `update/update.rpf` و `update/update2.rpf` |
 | فقط دوبله | هر دو پارت `Fuzzy-Dubbing-fa.part1.rar` و `part2.rar`؛ APK فعلی کافی است | ۲۹ فایل در `android/audio/sfx/` |
 | فارسی‌ساز و دوبله | هر دو بسته و یکی از APKهای fa | مجموع دو ردیف بالا |
 
@@ -35,7 +39,7 @@
 ### فارسی‌ساز و زیرنویس — کپی مستقیم
 
 1. از دو فایل update اصلی و سیو `Android/data/com.thegwchr.fuzzy/files/userdata` بکاپ بگیرید. بازی و لانچر را کامل ببندید.
-2. `Fuzzy-Localization-fa.rar` را با رمز `mobeegame` استخراج کنید. دقیقاً این دو فایل داخل آن است:
+2. `Fuzzy-Subtitles-2Updates-fa.rar` را با رمز `mobeegame` استخراج کنید. دقیقاً این دو فایل داخل آن است:
 
    ```text
    update/update.rpf

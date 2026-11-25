@@ -8,7 +8,7 @@
 
 Independent voice & text packages · Normal & Trainer editions
 
-[![Download](https://img.shields.io/badge/Download-Releases-7c3aed?style=for-the-badge)](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/latest)
+[![Download subtitles](https://img.shields.io/badge/Download_Subtitles-2_Update_Files-7c3aed?style=for-the-badge)](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/download/v1.0.0-fa/Fuzzy-Subtitles-2Updates-fa.rar)
 [![Telegram](https://img.shields.io/badge/Telegram-MOBEE_GAME-229ED9?style=for-the-badge&logo=telegram)](https://t.me/mobeegame)
 [![فارسی](assets/language-fa.svg)](README.fa.md)
 
@@ -22,9 +22,13 @@ Prepared by **AmirPhpDeveloper and the mobeegame team**. GameSub supplies the ex
 
 ## Choose your installation
 
+**[Download subtitles — only update.rpf + update2.rpf](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/download/v1.0.0-fa/Fuzzy-Subtitles-2Updates-fa.rar)** · [Normal fa APK](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/download/v1.0.0-fa/Fuzzy-Normal-fa.apk) · [Trainer fa APK](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/download/v1.0.0-fa/Fuzzy-Trainer-fa.apk)
+
+The subtitles archive is named **`Fuzzy-Subtitles-2Updates-fa.rar`** to distinguish it from the old compact package. GitHub's automatic **Source code (zip/tar.gz)** downloads contain project tools, not the ready-to-copy subtitles package. Use the direct subtitle link above.
+
 | Mode | Required downloads | Game files changed |
 |---|---|---|
-| Persian text/UI | `Fuzzy-Localization-fa.rar` plus one separately downloaded fa APK | `update/update.rpf`, `update/update2.rpf` |
+| Persian text/UI | `Fuzzy-Subtitles-2Updates-fa.rar` plus one separately downloaded fa APK | `update/update.rpf`, `update/update2.rpf` |
 | Persian voices only | Both `Fuzzy-Dubbing-fa.part1.rar` and `part2.rar`; keep your existing APK | 29 RPF files under `android/audio/sfx/` |
 | Text and voices | Both packages plus one fa APK | Both sets above |
 
@@ -35,7 +39,7 @@ Archive password: **`mobeegame`**. The localization RAR is approximately **1.14 
 ### Persian text and subtitles — direct copy
 
 1. Back up the original update files and saves at `Android/data/com.thegwchr.fuzzy/files/userdata`. Completely close the game and launcher.
-2. Extract `Fuzzy-Localization-fa.rar` with password `mobeegame`. It contains exactly:
+2. Extract `Fuzzy-Subtitles-2Updates-fa.rar` with password `mobeegame`. It contains exactly:
 
    ```text
    update/update.rpf

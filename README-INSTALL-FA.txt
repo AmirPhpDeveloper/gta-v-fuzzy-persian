@@ -5,7 +5,7 @@
 
 ۱) فارسی‌ساز و زیرنویس: کپی مستقیم، بدون پایتون
 
-داخل Fuzzy-Localization-fa.rar فقط این دو فایل آماده است:
+داخل Fuzzy-Subtitles-2Updates-fa.rar فقط این دو فایل آماده است:
 update/update.rpf
 update/update2.rpf
 

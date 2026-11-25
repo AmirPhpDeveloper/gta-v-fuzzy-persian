@@ -1,4 +1,4 @@
-014eff45a276a663b56d0d05ece6f30ed0bb28489b6395ea402229f559852b3f  Fuzzy-Localization-fa.rar
+014eff45a276a663b56d0d05ece6f30ed0bb28489b6395ea402229f559852b3f  Fuzzy-Subtitles-2Updates-fa.rar
 158b56f49fd4ff381a27901f3b804dea0646d2d557e561cf6b32872fd7e9e4af  Fuzzy-Normal-fa.apk
 250b9163acdaf873a0148bed107e0503c1bfa1e714abac4ef805a3a1f275b53e  Fuzzy-Dubbing-fa.part2.rar
 857dfc30bf20e39c534cb0ee5c1c8b365a46f688997b2ba0ecea31dbf6c517dc  Fuzzy-Trainer-fa.apk
