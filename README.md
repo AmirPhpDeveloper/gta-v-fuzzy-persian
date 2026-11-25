@@ -1,61 +1,73 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="GTA V Fuzzy — فارسی‌ساز و دوبلهٔ فارسی — AmirPhpDeveloper × mobeegame" />
+<img src="assets/banner-en.png" width="100%" alt="GTA V Fuzzy — Persian localization and dubbing — AmirPhpDeveloper × mobeegame" />
 
-# GTA V Fuzzy — فارسی‌ساز و دوبلهٔ فارسی
+# GTA V Fuzzy — Persian localization and dubbing
 
-**لس‌سانتوس، این‌بار به فارسی**
+**Los Santos, in Persian.**
 
-متن فارسی • دوبلهٔ مستقل • نسخهٔ عادی و ترینر
+Independent voice & text packages · Normal & Trainer editions
 
-[![Download](https://img.shields.io/badge/دانلود-Releases-7c3aed?style=for-the-badge)](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/latest)
+[![Download](https://img.shields.io/badge/Download-Releases-7c3aed?style=for-the-badge)](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/latest)
 [![Telegram](https://img.shields.io/badge/Telegram-MOBEE_GAME-229ED9?style=for-the-badge&logo=telegram)](https://t.me/mobeegame)
-[![Guide](https://img.shields.io/badge/راهنما-English-20252b?style=for-the-badge)](README.en.md)
+[![Persian](https://img.shields.io/badge/زبان-فارسی-16a34a?style=for-the-badge)](README.fa.md)
 
 **AmirPhpDeveloper × mobeegame**
 
 </div>
 
-[English guide](README.en.md) · [دانلودها / Downloads](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases) · [آموزش کامل نصب](README-INSTALL-FA.txt) · [گزارش بررسی](docs/TESTING.md)
+[فارسی](README.fa.md) · [Downloads](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases) · [Test report](docs/TESTING.md)
 
-فارسی‌سازی توسط **AmirPhpDeveloper و تیم mobeegame**. این پروژه، فارسی‌ساز متن و دوبله را جدا ارائه می‌کند تا بتوانید یکی یا هر دو را نصب کنید. متن و منابع فارسی داخل بازی از بستهٔ GameSub مورد استفاده در این پروژه آمده‌اند؛ اصلاح پورت اندروید و بسته‌بندی مستقل در این مخزن انجام شده است.
+Prepared by **AmirPhpDeveloper and the mobeegame team**. GameSub supplies the existing Persian game text/resources used by this project; Android UI integration, compatibility fixes and independent distribution are maintained here.
 
-## انتخاب بسته
+## Choose your installation
 
-| حالت | دانلود و نصب | فایل دیتای تغییرکرده |
+| Mode | Required downloads | Game files changed |
 |---|---|---|
-| فقط فارسی‌ساز | `Fuzzy-Localization-fa.rar`، سپس یکی از APKهای عادی یا ترینر fa | `update/update.rpf` و `update/update2.rpf` |
-| فقط دوبله | هر دو پارت `Fuzzy-Dubbing-fa.part1.rar` و `part2.rar`؛ APK فعلی کافی است | ۲۹ فایل در `android/audio/sfx/` |
-| فارسی‌ساز و دوبله | هر دو بسته و یکی از APKهای fa | مجموع دو ردیف بالا |
+| Persian text/UI | `Fuzzy-Localization-fa.rar`, including normal and trainer fa APKs | `update/update.rpf`, `update/update2.rpf` |
+| Persian voices only | Both `Fuzzy-Dubbing-fa.part1.rar` and `part2.rar`; keep your existing APK | 29 RPF files under `android/audio/sfx/` |
+| Text and voices | Both packages plus one fa APK | Both sets above |
 
-**رمز همهٔ RARها: `mobeegame`**. پارت‌های دوبله را کنار هم بگذارید و فقط پارت اول را استخراج کنید. هر پارت کمتر از ۲٬۰۰۰٬۰۰۰٬۰۰۰ بایت است. فارسی‌ساز همراه دو APK حدود ۱۷۲ مگابایت و مجموع دوبله حدود ۲٫۳۷ گیگابایت است. حجم فایل بازسازی‌شده روی دیسک بیشتر از حجم دانلود است.
+Archive password: **`mobeegame`**. Keep both dubbing parts together and extract part 1 using a RAR5-compatible application. Every part is below 2,000,000,000 bytes. Localization with both APKs is approximately 172 MB; dubbing totals approximately 2.37 GB. Rebuilt game files need substantially more disk space than the download.
 
-## نصب در چند مرحله
+## Installation
 
-1. از دیتای اصلی همان بیلد و پوشهٔ سیو `Android/data/com.thegwchr.fuzzy/files/userdata` بکاپ داشته باشید. پچ ورودیِ دست‌نخورده می‌خواهد؛ روی فایل قبلاً پچ‌شده اعمال نمی‌شود.
-2. RAR مربوط را با رمز بالا استخراج کنید. ZIPهای داخل بسته، ورودی نصاب‌اند؛ آن‌ها را باز نکنید. برای نصب هر دو مؤلفه، محتویات هر دو بسته را در یک پوشه استخراج کنید.
-3. روی ویندوز Python 3.9 یا جدیدتر نصب کنید؛ آزمون بازسازی با Python 3.11 انجام شده است. `RUN-WINDOWS.cmd` را اجرا کنید. گزینهٔ ۱ فارسی‌ساز، ۲ دوبله و ۳ هر دو است.
-4. مسیر **خود پوشهٔ game اصلی** و یک پوشهٔ خروجی جداگانه را وارد کنید. نصاب منبع را تغییر نمی‌دهد؛ نسخه و هش ورودی، دادهٔ پچ و هش خروجی را کنترل می‌کند. در خطا توقف کنید و فایل ناقص را نصب نکنید.
-5. بازی و لانچر را کاملاً ببندید. فقط فایل‌های ساخته‌شده در خروجی را با حفظ مسیرشان در پوشهٔ فعال game کپی و جایگزین کنید. در این گوشی مسیر فعال `com.thegwchr.fuzzy/files/game` در ریشهٔ حافظه بود؛ مسیر گوشی خودتان را بررسی کنید.
-6. برای فارسی‌ساز، **فقط یکی** از `Fuzzy-Normal-fa.apk` یا `Fuzzy-Trainer-fa.apk` را نصب کنید. هر دو یک شناسهٔ برنامه دارند و هم‌زمان نصب نمی‌شوند. امضای fa با نسخهٔ اصلی متفاوت است؛ نصب اول ممکن است حذف نسخهٔ قبلی بخواهد، پس ابتدا سیو را ذخیره کنید.
-7. زبان بازی را English و گزینهٔ Subtitles را روشن کنید. پس از پچ، عملیات Repair/Import که دیتا را بازنویسی می‌کند انجام ندهید.
+1. Back up your original supported game data and saves at `Android/data/com.thegwchr.fuzzy/files/userdata`. The installer requires untouched source files whose SHA-256 hashes match the manifests. Previously patched or different builds are rejected.
+2. Extract the password-protected RAR. Leave the internal payload ZIPs intact. For both components, extract both packages into the same directory.
+3. Install Python 3.9+ on Windows; reconstruction was tested with Python 3.11. Run `RUN-WINDOWS.cmd`, choose 1 for localization, 2 for dubbing, or 3 for both. Alternatively run `python installer/install.py` in a terminal.
+4. Enter the path to the original **game** directory, then a separate output directory. The installer verifies sources, payloads and completed outputs. It never overwrites original input files. Stop on any error; do not install incomplete output.
+5. Completely close the game and launcher. Copy only the generated files into the active game directory, preserving relative paths. On the test phone this was `com.thegwchr.fuzzy/files/game` at shared-storage root. Confirm your own active location.
+6. For localization, install **either** `Fuzzy-Normal-fa.apk` **or** `Fuzzy-Trainer-fa.apk`. They share a package ID and cannot coexist. They share the project signing key, but differ from the original signature; first installation may require uninstalling the original. Back up saves before uninstalling.
+7. Select English as the game language and enable Subtitles. Do not run a repair/import action that restores the original files after patching.
 
-**کل پوشهٔ game، فایل‌های اصلی بازی و سیو را حذف نکنید.** راهنمای مفصل خطاها و روش دستی در [آموزش نصب](README-INSTALL-FA.txt) آمده است. این بسته جایگزین دانلود دیتای اصلی بازی نیست و فقط برای هش‌های ثبت‌شده در `manifests/` ساخته شده است.
+Keep your original game archive and all unrelated game files. Do not delete the entire `game` directory or savedata. These packages are patches, not a complete game download. Android/Termux installation has not been validated; the documented installer workflow runs on a computer.
 
-## نتیجهٔ تست و محدودیت‌ها
+## Troubleshooting
 
-| داخل بازی | منوی فارسی ترینر |
+- **Wrong source version:** use clean files matching `manifests/`; already patched inputs are not supported.
+- **Missing android/update/common.rpf/androida.rpf:** select the actual extracted `game` directory, not a ZIP or its parent folder.
+- **English touch captions:** verify both update files are in the active location and install the corresponding fa APK. Some game strings remain outside the translation source coverage.
+- **Crash/audio noise:** do not mix obsolete v9/v10 script experiments or v5 audio with this release. Report a sanitized new crash log, device model, installed variant and reproduction scene in Issues.
+
+## Verification and scope
+
+| Persian gameplay | Persian trainer menu |
 |---|---|
-| ![نمایش متن فارسی در گیم‌پلی](assets/normal-final-world.png) | ![منوی ترینر در بازی](assets/trainer-repaired-world-menu.png) |
+| ![Persian gameplay](assets/normal-final-world.png) | ![Trainer menu](assets/trainer-repaired-world-menu.png) |
 
-نسخهٔ عادی و ترینر اصلاح‌شده روی POCO X7 Pro با Android 15 وارد گیم‌پلی شدند. دکمه‌های فارسی، منو و پنجرهٔ معرفی بررسی شدند. کرش بومیِ مشاهده‌شدهٔ ترینر از آدرس‌های قدیمی `libshv` بود؛ اصلاح آن روی همین بیلد انجام و بازشدن منو با `engine: ok` تأیید شد. بازسازی هر ۳۱ فایل با هش نهاییِ صحیح بررسی شد.
+Normal and repaired trainer APKs reached gameplay on a POCO X7 Pro running Android 15. Persian confirmation/navigation captions and trainer menus were inspected. The observed trainer native crash was traced to stale engine addresses in `libshv`; ten precise patch sites were corrected, then the menu opened in gameplay with `engine: ok` and the process remained alive. All 31 reconstructed files matched their expected SHA-256 hashes.
 
-این نتیجه به معنی اجرای تمام مأموریت‌ها، شنیدن تمام دیالوگ‌ها یا آزمودن همهٔ قابلیت‌های ترینر نیست. دکمهٔ Skip Cutscene در مسیر ترجمه پوشش دارد، اما در صحنهٔ قابل‌ردکردن مستقلاً تأیید نشده است. سناریوی فقط دوبله با APK خام در این دور، اجرای کامل روی گوشی نداشت. [جزئیات و شواهد](docs/TESTING.md).
+This is **not** a full playthrough, a listening audit of every dialogue, or validation of every trainer feature. Skip Cutscene is mapped but has not been independently exercised in a skippable scene. Voices-only with a stock APK did not receive a complete device run in this test round. See [TESTING.md](docs/TESTING.md) for exact limits.
 
-## مشارکت و حمایت
+## Development and support
 
-برای خبرها و انتشارها به [کانال تلگرام موبی‌گیم — @mobeegame](https://t.me/mobeegame) بپیوندید.
+### Special thanks
 
-برای گزارش اشکال، نام APK، مؤلفه‌های نصب‌شده، صحنه، مدل گوشی و گزارش کرشِ پاک‌سازی‌شده از اطلاعات شخصی را در [Issues](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/issues) بگذارید. سیو، اطلاعات حساب یا کلید امضا را عمومی ارسال نکنید. برای حمایت از پروژه، مخزن را **استار کنید**.
+- **[GameSub — gamesub.net](https://gamesub.net/)** for preparing the Persian subtitles and game translation.
+- **[GameDub — gamedub.net](https://gamedub.net/)** for preparing the Persian dubbing and the work of its voice team.
 
-کد نصاب و ابزارهای تغییرات در مخزن قرار دارد؛ فایل‌های حجیم در Releases هستند. [روش ساخت](docs/BUILD.md) و [اعتبار منابع](THIRD_PARTY_NOTICES.md) را ببینید. این پروژه مستقل از سازندگان و ناشران بازی است.
+Their translation and dubbing remain credited to their original creators. Our work here concerns Android integration, compatibility fixes and independent patch packaging.
+
+Follow [MOBEE GAME on Telegram — @mobeegame](https://t.me/mobeegame) for news and releases.
+
+See [build notes](docs/BUILD.md), [third-party notices](THIRD_PARTY_NOTICES.md), installer source and translation tables. Large deliverables live in GitHub Releases. Do not publish saves, credentials, signing keys or unredacted phone logs in bug reports. You can support the project by starring this repository.
