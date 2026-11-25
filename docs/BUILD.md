@@ -30,7 +30,7 @@ The original core libgtav is preserved byte-for-byte. Normal uses an added libfu
 
 `build_compact.py` produces manifests and ZIP payloads containing replacement/appended byte ranges. The installer copies unchanged ranges from verified original RPFs into a separate output, applies payloads, then verifies final SHA-256. It neither re-encodes audio nor modifies the source. Localization and dubbing have disjoint target paths.
 
-`make_distribution.py` wraps the installer, manifests and payloads in password-protected RAR5 archives. It uses stored compression because ZIPs/APKs are already compressed. Dubbing volumes are 1800 MiB each, below 2 decimal GB. The localization RAR includes both fa APKs. Password is the public distribution password `mobeegame`.
+`make_distribution.py dubbing` wraps the compact audio installer, manifests and payloads in password-protected RAR5 archives. It uses stored compression because ZIPs are already compressed. Dubbing volumes are 1800 MiB each, below 2 decimal GB. `make_distribution.py localization` delegates to `build_direct_localization.py`: the current localization RAR contains exactly the two ready-to-copy update RPFs, with no installer or APK. APKs are separate downloads. Password is the public distribution password `mobeegame`.
 
 When adapting these workspace scripts outside their original layout, point `PUBLIC` at the repository root and output at a separate release directory. Regenerate manifests only from matching source/target pairs. End-to-end reconstruction of all 31 files must pass before publishing new payloads.
 

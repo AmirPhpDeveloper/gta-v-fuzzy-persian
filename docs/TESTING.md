@@ -16,6 +16,7 @@ Device: POCO X7 Pro, Android 15, ARM64. Testing ran on the phone without a deskt
 | Later dismisses, returns next launch; Never persists across restart | PASS |
 | Original launcher collage with Persian badge in jet-ski panel | Rendered through Android PackageManager |
 | Encrypted RAR integrity, every part below 2 decimal GB | PASS |
+| Current localization RAR contains exactly update/update.rpf and update/update2.rpf | PASS, direct-copy package; no APK or Python |
 | All final files copied to phone | See release delivery record |
 | Every mission / every dialogue / every trainer feature | NOT fully tested |
 | Actual Skip Cutscene action in a skippable scene | NOT independently tested |

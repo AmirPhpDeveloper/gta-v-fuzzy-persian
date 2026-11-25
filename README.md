@@ -24,21 +24,36 @@ Prepared by **AmirPhpDeveloper and the mobeegame team**. GameSub supplies the ex
 
 | Mode | Required downloads | Game files changed |
 |---|---|---|
-| Persian text/UI | `Fuzzy-Localization-fa.rar`, including normal and trainer fa APKs | `update/update.rpf`, `update/update2.rpf` |
+| Persian text/UI | `Fuzzy-Localization-fa.rar` plus one separately downloaded fa APK | `update/update.rpf`, `update/update2.rpf` |
 | Persian voices only | Both `Fuzzy-Dubbing-fa.part1.rar` and `part2.rar`; keep your existing APK | 29 RPF files under `android/audio/sfx/` |
 | Text and voices | Both packages plus one fa APK | Both sets above |
 
-Archive password: **`mobeegame`**. Keep both dubbing parts together and extract part 1 using a RAR5-compatible application. Every part is below 2,000,000,000 bytes. Localization with both APKs is approximately 172 MB; dubbing totals approximately 2.37 GB. Rebuilt game files need substantially more disk space than the download.
+Archive password: **`mobeegame`**. The localization RAR is approximately **1.14 GB** and contains **only the two ready-to-copy update RPF files**; no APK, Python scripts or installer. APKs are separate downloads. Keep both dubbing parts together and extract part 1 using a RAR5-compatible application. Every part is below 2,000,000,000 bytes. Dubbing totals approximately 2.37 GB and uses the compact reconstruction workflow below.
 
 ## Installation
 
-1. Back up your original supported game data and saves at `Android/data/com.thegwchr.fuzzy/files/userdata`. The installer requires untouched source files whose SHA-256 hashes match the manifests. Previously patched or different builds are rejected.
-2. Extract the password-protected RAR. Leave the internal payload ZIPs intact. For both components, extract both packages into the same directory.
-3. Install Python 3.9+ on Windows; reconstruction was tested with Python 3.11. Run `RUN-WINDOWS.cmd`, choose 1 for localization, 2 for dubbing, or 3 for both. Alternatively run `python installer/install.py` in a terminal.
-4. Enter the path to the original **game** directory, then a separate output directory. The installer verifies sources, payloads and completed outputs. It never overwrites original input files. Stop on any error; do not install incomplete output.
-5. Completely close the game and launcher. Copy only the generated files into the active game directory, preserving relative paths. On the test phone this was `com.thegwchr.fuzzy/files/game` at shared-storage root. Confirm your own active location.
-6. For localization, install **either** `Fuzzy-Normal-fa.apk` **or** `Fuzzy-Trainer-fa.apk`. They share a package ID and cannot coexist. They share the project signing key, but differ from the original signature; first installation may require uninstalling the original. Back up saves before uninstalling.
-7. Select English as the game language and enable Subtitles. Do not run a repair/import action that restores the original files after patching.
+### Persian text and subtitles — direct copy
+
+1. Back up the original update files and saves at `Android/data/com.thegwchr.fuzzy/files/userdata`. Completely close the game and launcher.
+2. Extract `Fuzzy-Localization-fa.rar` with password `mobeegame`. It contains exactly:
+
+   ```text
+   update/update.rpf
+   update/update2.rpf
+   ```
+
+3. Copy those two files into the **active `game/update/` directory**, replacing the matching files. On the test phone the full path was `com.thegwchr.fuzzy/files/game/update` at shared-storage root. Do not create `update/update/` or replace/delete the whole game folder. **No Python or computer is required for this localization archive.**
+4. Separately download and install **either** `Fuzzy-Normal-fa.apk` **or** `Fuzzy-Trainer-fa.apk`. They share a package ID and cannot coexist. First installation may require uninstalling an original APK with a different signature; back up saves first.
+5. Select English as the game language and enable Subtitles. Do not run repair/import afterward.
+
+### Dubbing — compact package
+
+1. Extract both dubbing RAR parts together. Leave the internal payload ZIPs intact.
+2. On a computer with Python 3.9+, run `RUN-WINDOWS.cmd` and choose **2 (dubbing)**. The current direct localization RAR is installed manually above; do not choose 1 or 3 for it.
+3. Supply the clean original **game** directory and a separate output directory. Supported source hashes are checked. Do not install output if verification fails.
+4. With the game closed, copy the generated 29 audio RPF files into the matching `game/android/audio/sfx/` paths. A modified APK is not required for dubbing alone.
+
+For both text and voices, perform these two independent procedures. Dubbing does not overwrite the two update files. Installer reconstruction was tested with Python 3.11. Instructions bundled inside older dubbing archives may describe the earlier compact text package; use this current guide for localization.
 
 Keep your original game archive and all unrelated game files. Do not delete the entire `game` directory or savedata. These packages are patches, not a complete game download. Android/Termux installation has not been validated; the documented installer workflow runs on a computer.
 

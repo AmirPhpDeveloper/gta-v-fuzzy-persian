@@ -1,10 +1,13 @@
 from pathlib import Path
-import argparse,subprocess,shutil,os,json,hashlib
+import argparse,subprocess,shutil,os,json,hashlib,sys
 ROOT=Path(__file__).resolve().parent;PROJECT=ROOT.parent.parent;PUBLIC=PROJECT/'github-release';RELEASE=PROJECT/'Persian-Complete/releases';RAR=r'C:\Program Files\WinRAR\Rar.exe'
 def link(source,target):
     target.parent.mkdir(parents=True,exist_ok=True)
     if not target.exists():os.link(source,target)
 def build(component):
+    if component=='localization':
+        subprocess.run([sys.executable,str(ROOT/'build_direct_localization.py')],check=True)
+        return
     stage=ROOT/'distribution-stage'/component;stage.mkdir(parents=True,exist_ok=True)
     for name in ['RUN-WINDOWS.cmd','README-INSTALL-FA.txt']:
         shutil.copy2(PUBLIC/name,stage/name)

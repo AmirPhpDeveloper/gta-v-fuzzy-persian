@@ -1,0 +1,21 @@
+{
+  "mode": "direct-replacement-no-python",
+  "archive": "Fuzzy-Localization-fa.rar",
+  "bytes": 1140752206,
+  "sha256": "014eff45a276a663b56d0d05ece6f30ed0bb28489b6395ea402229f559852b3f",
+  "password": "mobeegame",
+  "rar_test": "PASS",
+  "contains_only_two_update_files": true,
+  "files": [
+    {
+      "path": "update/update.rpf",
+      "bytes": 826202586,
+      "sha256": "388f72284c06da36c239bd2aec37c5592ec178032011fb72e7e444488fc46097"
+    },
+    {
+      "path": "update/update2.rpf",
+      "bytes": 333024256,
+      "sha256": "58ce41f506799fbd2e67418fc17f2c5473a94a1bd93391b7691e4b27251fb075"
+    }
+  ]
+}
