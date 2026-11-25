@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/fa-icon-final.png" width="132" alt="GTA V Fuzzy Persian" />
+<img src="assets/banner.png" width="100%" alt="GTA V Fuzzy — Persian localization and dubbing — AmirPhpDeveloper × mobeegame" />
 
 # GTA V Fuzzy — Persian localization and dubbing
 

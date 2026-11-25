@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/fa-icon-final.png" width="132" alt="GTA V Fuzzy فارسی" />
+<img src="assets/banner.png" width="100%" alt="GTA V Fuzzy — فارسی‌ساز و دوبلهٔ فارسی — AmirPhpDeveloper × mobeegame" />
 
 # GTA V Fuzzy — فارسی‌ساز و دوبلهٔ فارسی
 
