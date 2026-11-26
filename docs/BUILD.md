@@ -37,3 +37,9 @@ When adapting these workspace scripts outside their original layout, point `PUBL
 ## Scope
 
 This repository contains integration scripts, helper Java/C++, translation tables, installer source, manifests and sanitized verification records. Proprietary game/translation inputs remain external. It does not recreate original voice performances or claim a new translation of every game string. See `THIRD_PARTY_NOTICES.md`.
+
+## Complete ready-to-copy SFX package
+
+Use `installer/build_direct_dubbing.py --source-zip ORIGINAL.zip --payload-dir PAYLOADS --output OUTPUT --report REPORT.json`. It validates original and payload hashes, reconstructs the 29 canonical dubbed RPFs, and copies every unchanged original SFX RPF. It requires an exact full source inventory and produces only `sfx/` with 54 files. Existing output is accepted only if its hashes match. Originals are never modified.
+
+Package only `sfx/` using RAR5 with `-m1 -s- -v1800m -hpmobeegame`. The complete package is `Fuzzy-Dubbing-SFX-Complete-fa.part1.rar` through `part5.rar`. Test all volumes and verify the full 54-file listing before publishing. The old compact installer and its two-part archive are retained as legacy tooling; they are not the direct-copy download.

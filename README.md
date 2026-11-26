@@ -29,10 +29,12 @@ The subtitles archive is named **`Fuzzy-Subtitles-2Updates-fa.rar`** to distingu
 | Mode | Required downloads | Game files changed |
 |---|---|---|
 | Persian text/UI | `Fuzzy-Subtitles-2Updates-fa.rar` plus one separately downloaded fa APK | `update/update.rpf`, `update/update2.rpf` |
-| Persian voices only | Both `Fuzzy-Dubbing-fa.part1.rar` and `part2.rar`; keep your existing APK | 29 RPF files under `android/audio/sfx/` |
+| Persian voices only | All five `Fuzzy-Dubbing-SFX-Complete-fa.part*.rar` volumes; keep your existing APK | Complete `sfx/` folder, all 54 RPF files |
 | Text and voices | Both packages plus one fa APK | Both sets above |
 
-Archive password: **`mobeegame`**. The localization RAR is approximately **1.14 GB** and contains **only the two ready-to-copy update RPF files**; no APK, Python scripts or installer. APKs are separate downloads. Keep both dubbing parts together and extract part 1 using a RAR5-compatible application. Every part is below 2,000,000,000 bytes. Dubbing totals approximately 2.37 GB and uses the compact reconstruction workflow below.
+Archive password: **`mobeegame`**. The localization RAR is approximately **1.14 GB** and contains **only the two ready-to-copy update RPF files**; no APK, Python scripts or installer. APKs are separate downloads. Keep all five dubbing volumes together and extract part 1. Each volume is below 2,000,000,000 bytes. The full SFX download totals **9.12 GB**, with **10.01 GB** required after extraction.
+
+**Complete SFX dubbing:** [Part 1](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/download/v1.0.0-fa/Fuzzy-Dubbing-SFX-Complete-fa.part1.rar) · [Part 2](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/download/v1.0.0-fa/Fuzzy-Dubbing-SFX-Complete-fa.part2.rar) · [Part 3](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/download/v1.0.0-fa/Fuzzy-Dubbing-SFX-Complete-fa.part3.rar) · [Part 4](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/download/v1.0.0-fa/Fuzzy-Dubbing-SFX-Complete-fa.part4.rar) · [Part 5](https://github.com/AmirPhpDeveloper/gta-v-fuzzy-persian/releases/download/v1.0.0-fa/Fuzzy-Dubbing-SFX-Complete-fa.part5.rar)
 
 ## Installation
 
@@ -50,20 +52,20 @@ Archive password: **`mobeegame`**. The localization RAR is approximately **1.14 
 4. Separately download and install **either** `Fuzzy-Normal-fa.apk` **or** `Fuzzy-Trainer-fa.apk`. They share a package ID and cannot coexist. First installation may require uninstalling an original APK with a different signature; back up saves first.
 5. Select English as the game language and enable Subtitles. Do not run repair/import afterward.
 
-### Dubbing — compact package
+### Dubbing — complete SFX folder, direct copy
 
-1. Extract both dubbing RAR parts together. Leave the internal payload ZIPs intact.
-2. On a computer with Python 3.9+, run `RUN-WINDOWS.cmd` and choose **2 (dubbing)**. The current direct localization RAR is installed manually above; do not choose 1 or 3 for it.
-3. Supply the clean original **game** directory and a separate output directory. Supported source hashes are checked. Do not install output if verification fails.
-4. With the game closed, copy the generated 29 audio RPF files into the matching `game/android/audio/sfx/` paths. A modified APK is not required for dubbing alone.
+1. Download **all five** `Fuzzy-Dubbing-SFX-Complete-fa.part*.rar` volumes into one folder and extract **part 1** with password `mobeegame`.
+2. The archive contains only `sfx/` with **all 54 RPF files**: 29 dubbed archives plus 25 unchanged originals required for a complete folder. No installer, Python, APK or `.header`/`.tail` fragments are included.
+3. Completely close the game and launcher. Keep a backup of the previous SFX folder, then replace the entire active `game/android/audio/sfx/` folder with the extracted `sfx/`. On the test phone the destination is `/sdcard/com.thegwchr.fuzzy/files/game/android/audio/sfx/`. Avoid nesting `sfx/sfx/`.
+4. Do not run Repair/Import afterward. Dubbing works independently of localization and requires no modified APK. To install both components, also follow the text/subtitle procedure above.
 
-For both text and voices, perform these two independent procedures. Dubbing does not overwrite the two update files. Installer reconstruction was tested with Python 3.11. Instructions bundled inside older dubbing archives may describe the earlier compact text package; use this current guide for localization.
+The earlier two-part `Fuzzy-Dubbing-fa` download is a **legacy installer package**, not ready-to-copy SFX. Extracting its payload ZIPs produces `.rpf.header` and `.rpf.tail` fragments which the game cannot read. Use the five complete-SFX volumes above for direct installation.
 
-Keep your original game archive and all unrelated game files. Do not delete the entire `game` directory or savedata. These packages are patches, not a complete game download. Android/Termux installation has not been validated; the documented installer workflow runs on a computer.
+Keep the original game archive and saves. Only the SFX folder is supplied in this dubbing package; do not remove other game folders.
 
 ## Troubleshooting
 
-- **Wrong source version:** use clean files matching `manifests/`; already patched inputs are not supported.
+- **Voices remain English:** verify the complete RPF files were copied into the active SFX folder. `.header` and `.tail` files are installer fragments and do not replace RPFs. The new package contains 54 complete RPFs.
 - **Missing android/update/common.rpf/androida.rpf:** select the actual extracted `game` directory, not a ZIP or its parent folder.
 - **English touch captions:** verify both update files are in the active location and install the corresponding fa APK. Some game strings remain outside the translation source coverage.
 - **Crash/audio noise:** do not mix obsolete v9/v10 script experiments or v5 audio with this release. Report a sanitized new crash log, device model, installed variant and reproduction scene in Issues.

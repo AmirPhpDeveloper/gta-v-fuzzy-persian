@@ -33,3 +33,11 @@ This fix is specific to the recorded original binaries. A different game update 
 ## Manual follow-up
 
 Exercise a genuinely skippable cutscene, later missions, shops, phone calls, vehicle selection and each trainer action. Check both ordinary and trainer variants on more devices. Report exact reproduction steps and a sanitized crash report; avoid sharing private savedata or account details.
+
+## Complete SFX distribution — 2026-11-26
+
+The original SFX inventory contains 54 RPF files. The new archive contains only `sfx/` with all 54: 29 canonical v6 dubbed files and 25 byte-identical original files. All file hashes, the full inventory and 2,216 replacement AWC signatures/ranges were checked. RAR integrity and the sub-2-GB volume limit passed. All five volumes were copied to shared-storage root on the phone and SHA-256 matched.
+
+The reported English opening voices were investigated: all 29 active audio RPFs initially matched the original hashes, while `.rpf.header` and `.rpf.tail` installer fragments had been extracted beside them. These fragments do not activate dubbing. The complete package removes the installer step. A new listening test after manual installation has not been completed. Delivery of RARs does not establish that the active game data has been replaced.
+
+See `source/reports/direct-dubbing-verification.json`, `direct-dubbing-distribution.json` and `direct-dubbing-delivery.json`.
